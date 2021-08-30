@@ -1,35 +1,16 @@
-## Welcome to Copenhagen VIS 2021
+## Welcome to Copenhagen IEEE VIS 2021 at ITU
 
 The IT University of Copenhagen is organizing an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
-### Markdown
+The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, they will meet at ITU to stream the virtual event together and to interact through associated local events.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## The Program
 
-```markdown
-Syntax highlighted code block
+The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.20 local time, CEST (more information soon).
 
-# Header 1
-## Header 2
-### Header 3
+### The Local Program
 
-- Bulleted
-- List
+In addition to the virtual program, the satellite program consists of several local events. We expect these to be coordinated with the virtual program and directly preceed it (13.00-15.00). The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
 
-1. Numbered
-2. List
+Please check back later for our local program. In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sknudsen/vis21itu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
