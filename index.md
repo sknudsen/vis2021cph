@@ -14,3 +14,10 @@ In addition to the virtual program, the satellite program consists of several lo
 
 Please check back later for our local program. In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
+## Location and Registration
+
+Details to follow.
+
+## Local Organization Committee
+Søren Knudsen (chair)
+...
