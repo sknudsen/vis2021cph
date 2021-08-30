@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Copenhagen VIS 2021
 
-You can use the [editor on GitHub](https://github.com/sknudsen/vis21itu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The IT University of Copenhagen is organizing an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
 ### Markdown
 
