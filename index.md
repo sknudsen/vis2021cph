@@ -16,10 +16,9 @@ Please check back later for our local program. In the meantime, check the virtua
 
 ## Location and Registration
 
-If you want to help organize part of the satellite event, please contact us directly.
+If you want to help organize part of the satellite event, please contact us directly (see below).
 
 If you want to the event, we will provide more information here shortly.
-
 
 ## Local Organization Committee
 Søren Knudsen (chair)
