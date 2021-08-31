@@ -10,9 +10,11 @@ The satellite program will provide options for viewing the virtual IEEE VIS 2021
 
 ### The Local Program
 
-In addition to the virtual program, the satellite program consists of several local events. We expect these to be coordinated with the virtual program and directly preceed it. For example, half-day workshops (13.00-14.45) and full-day workshops (9.00-14.45). The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
+In addition to the virtual program, the satellite program will provide several opportunities to attend local events and to interact with other attendees. We expect these to be coordinated with the virtual program and directly preceed it. For example, half-day workshops (12.00-14.45) and full-day workshops (9.00-14.45). The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
 
-Please check back later for our local program. In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
+Please check back later for our local program. 
+
+In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
 ## Location and Registration
 
@@ -23,4 +25,4 @@ If you want to the event, we will provide more information here shortly.
 ## Local Organization Committee
 [Søren Knudsen (chair)](https://pure.itu.dk/portal/en/persons/soeren-knudsen(2575c800-642d-4984-9c56-41601cf07a26).html)
 
-more information soon.
+More information soon.
