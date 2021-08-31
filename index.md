@@ -1,4 +1,4 @@
-## Welcome to Copenhagen IEEE VIS 2021 at ITU
+# Welcome to Copenhagen IEEE VIS 2021 at ITU
 
 The IT University of Copenhagen is organizing an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
