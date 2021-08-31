@@ -2,4 +2,7 @@ plugins: ["jekyll-include-cache", "jekyll-titles-from-headings"]
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 atom_feed:
   hide: true
-
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
