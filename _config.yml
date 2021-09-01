@@ -6,3 +6,15 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false
