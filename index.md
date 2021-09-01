@@ -6,7 +6,9 @@ The event will bring together local communities of people from academia and indu
 
 ## The Program
 
-The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.20 local time, CEST (more information soon).
+The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.20 local time (CEST). 
+
+Please check back shortly for more information about the virtual program viewing options at our event.
 
 ### The Local Program
 
