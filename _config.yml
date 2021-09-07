@@ -24,3 +24,8 @@ defaults:
       type: pages
     values:
       layout: single
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-61041493-4"
+    anonymize_ip: true
