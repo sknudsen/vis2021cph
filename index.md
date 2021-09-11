@@ -12,7 +12,7 @@ Please check back shortly for more information about the virtual program viewing
 
 ### The Local Program
 
-In addition to the virtual program, the satellite program will provide several opportunities to attend local events and to interact with other attendees. We expect these to be coordinated with the virtual program and directly preceed it. For example, half-day workshops (12.00-14.45) and full-day workshops (9.00-14.45). The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
+In addition to the virtual program, the satellite program will provide several opportunities to attend local events and to interact with other attendees. We expect these to be coordinated with the virtual program and directly preceed it. For example, half-day workshops (12.00-14.35) and full-day workshops (9.00-14.35). The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
 
 Currently in the works are:
 * Visualization in Practice community meetup (Monday)
