@@ -1,4 +1,4 @@
-plugins: ["jekyll-include-cache", "jekyll-titles-from-headings", "jekyll-spaceship"]
+plugins: ["jekyll-include-cache", "jekyll-titles-from-headings"]
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 atom_feed:
   hide: true
