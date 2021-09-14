@@ -27,11 +27,26 @@ Please check back later for more details about local program. If you would like 
 
 In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
-## Location and Registration
+## Attending
 
-If you want to help organize part of the satellite event, please contact us directly (see below).
+The satellite event takes place in beatiful Copenhagen, which offers a vibrant restaurant and bar scene and great cultural expriences, for example, at the city's many museums or simply when walking among the many historic buildings --- the city is known for being very walkable. 
+
+ITU is located next to the 800-meter Emil Holms Kanal in the northeastern part of Ørestad between Copenhagen and DR Byen – home of the National Danish Broadcast Service (Danmarks Radio).
+
+### Travels and accomodation
+
+We have several hotels within a walking distance:
+
+* [Xou Copenhagen](https://livezoku.com/copenhagen/)
+* [radisson-blu-copenhagen](https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia)
+
+Many more are still within easy reach of the satellite venue by walking, biking, or via metro.
+
+### Registration
 
 If you are interested in attending IEEE VIS 2021 at ITU, please [sign up](https://forms.office.com/r/vq2L0ax4YK) to receive updates via our mailing list and to help us gage interest for the event.
+
+If you want to help organize part of the satellite event, please contact us directly (see below).
 
 ## Local Organization Committee
 Søren Knudsen (chair) [contact](https://pure.itu.dk/portal/en/persons/soeren-knudsen(2575c800-642d-4984-9c56-41601cf07a26).html)
