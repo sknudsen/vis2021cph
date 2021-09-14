@@ -37,8 +37,9 @@ ITU is located next to the 800-meter Emil Holms Kanal in the northeastern part o
 
 We have several hotels within a walking distance:
 
-* [Xou Copenhagen](https://livezoku.com/copenhagen/)
-* [radisson-blu-copenhagen](https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia)
+* [Zoku Copenhagen](https://livezoku.com/copenhagen/)
+* [Radisson Blu Copenhagen](https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia)
+* [Bryggen Guldsmeden](https://guldsmedenhotels.com/bryggen/)
 
 Many more are still within easy reach of the satellite venue by walking, biking, or via metro.
 
