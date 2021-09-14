@@ -10,9 +10,9 @@ titles_from_headings:
 header:
   teaser: "/assets/images/_G8A1751-final-copy-jpg-crop.jpg"
 author:
-#  name: "Your Name"
+  name: "Your Name"
   avatar: "/assets/images/ITU_logo_UK jpg.jpg"
-#  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "IEEE VIS in Copenhagen"
   links:
     - label: "Made Mistakes"
