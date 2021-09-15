@@ -11,13 +11,15 @@ header:
       url: "https://forms.office.com/r/vq2L0ax4YK"
 # excerpt: "The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen from Oct. 24-29"
 ---
-The IT University of Copenhagen is organizing an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
+The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
 The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, they will meet at ITU to stream the virtual event together and to interact through associated local events.
 
 ## The Program
 
 The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.20 local time (CEST). 
+
+We plan to provide a fully catered event with a no or a minor registration fee.
 
 Please check back shortly for more information about the virtual program viewing options at our event.
 
@@ -46,7 +48,7 @@ ITU is located next to the 800-meter Emil Holms Kanal in the northeastern part o
 
 ### Travels and accomodation
 
-We have several hotels within a walking distance:
+We have several hotels within walking distance to the satellite venue:
 
 * [Zoku Copenhagen](https://livezoku.com/copenhagen/)
 * [Radisson Blu Copenhagen](https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia)
