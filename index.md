@@ -42,7 +42,7 @@ In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
 ## Attending
 
-The satellite event takes place in beatiful Copenhagen, which offers a vibrant restaurant and bar scene and great cultural expriences, for example, at the city's many museums or simply when walking among the many historic buildings --- the city is known for being very walkable. 
+The satellite event takes place in beatiful Copenhagen, which offers a vibrant restaurant and bar scene and great cultural expriences, for example, at the city's many museums or simply when walking among the many historic buildings — the city is known for being very walkable. 
 
 ITU is located next to the 800-meter Emil Holms Kanal in the northeastern part of Ørestad between Copenhagen and DR Byen – home of the National Danish Broadcast Service (Danmarks Radio).
 
