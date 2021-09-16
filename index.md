@@ -99,8 +99,6 @@ We have several hotels within walking distance to the satellite venue:
 
 Many more are still within easy reach of the satellite venue by walking, biking, or via metro.
 
-{% include gallery id="gallerybottom" caption="Enjoy Copenhagen's urban scene on foot on by bike." %}
-
 ### Registration
 
 If you are interested in attending IEEE VIS 2021 at ITU, please [sign up](https://forms.office.com/r/vq2L0ax4YK) to receive updates via our mailing list and to help us gage interest for the event.
@@ -114,3 +112,5 @@ More information soon.
 
 ## Sponsors
 We currently finalize sponsor agreements and close our calls for sponsors soon. Sponsors to appear here. 
+
+{% include gallery id="gallerybottom" caption="Enjoy Copenhagen's urban scene on foot on by bike." %}
