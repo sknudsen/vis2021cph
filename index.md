@@ -107,10 +107,13 @@ If you want to help organize part of the satellite event, please contact us dire
 
 ## Local Organization Committee
 Søren Knudsen (chair) [contact](https://pure.itu.dk/portal/en/persons/soeren-knudsen(2575c800-642d-4984-9c56-41601cf07a26).html)
+Aske Mottelson
+Luca Rossi
+Jichen Zhu
 
 More information soon.
 
 ## Sponsors
 We currently finalize sponsor agreements and close our calls for sponsors soon. Sponsors to appear here. 
 
-{% include gallery id="gallerybottom" caption="Enjoy Copenhagen's urban scene on foot on by bike." %}
+{% include gallery id="gallerybottom" caption="Enjoy Copenhagen's urban scene on foot or on bike." %}
