@@ -26,28 +26,28 @@ galleryfood:
 gallerybottom:
   - url: /assets/images/gallery-1.jpg
     image_path: /assets/images/gallery-1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Photo representing Copenhagen's urban architecture and culture scene"
+    title: "Credits: Daniel Rasmussen/Copenhagen Media Center."
   - url: /assets/images/gallery-2.jpg
     image_path: /assets/images/gallery-2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Photo representing Copenhagen's urban architecture and culture scene"
+    title: "Credits: Morten Jerichau/Copenhagen Media Center."
   - url: /assets/images/gallery-3.jpg
     image_path: /assets/images/gallery-3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "Photo representing Copenhagen's urban architecture and culture scene"
+    title: "Credits: Martin Heiberg/Copenhagen Media Center."
   - url: /assets/images/gallery-4.jpg
     image_path: /assets/images/gallery-4.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    alt: "Photo representing Copenhagen's urban architecture and culture scene"
+    title: "Credits: Martin Heiberg/Copenhagen Media Center."
   - url: /assets/images/gallery-5.jpg
     image_path: /assets/images/gallery-5.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
+    alt: "Photo representing Copenhagen's urban architecture and culture scene"
+    title: "Credits: Oliver Sperling/Copenhagen Media Center."
   - url: /assets/images/gallery-6.jpg
     image_path: /assets/images/gallery-6.jpg
-    alt: "placeholder image 6"
-    title: "Image 6 title caption"
+    alt: "Photo representing Copenhagen's urban architecture and culture scene"
+    title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 ---
 The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
