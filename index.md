@@ -75,7 +75,7 @@ We currently work on the following local events:
 | Thursday | Network Visualization Workshop |
 | Friday | Healthcare Data Workshop|
 
-We would also welcome time-shifted presentations conference talks.
+We highly welcome time-shifted presentations of VIS conference talks.
 
 Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us. 
 
