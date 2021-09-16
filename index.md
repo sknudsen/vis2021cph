@@ -13,16 +13,16 @@ header:
 galleryfood:
   - url: /assets/images/gallery-10.jpg
     image_path: /assets/images/gallery-10.jpg
-    alt: "placeholder image 10"
-    title: "Image 10 title caption"
+    alt: "Photo representing Copenhagen's restaurant scene"
+    title: "Gro Spiseri and Gro Eatery is Denmark’s first rooftop farm and restaurant. Credits: Anders Hviid-Haglund/Copenhagen Media Center."
   - url: /assets/images/gallery-8.jpg
     image_path: /assets/images/gallery-8.jpg
-    alt: "placeholder image 8"
-    title: "Image 8 title caption"
+    alt: "Photo representing Copenhagen's restaurant scene"
+    title: "Restaurant TOLV is a haven in the middle of Vesterbro, Copenhagen. Credits: Daniel Rasmussen/Copenhagen Media Center."
   - url: /assets/images/gallery-9.jpg
     image_path: /assets/images/gallery-9.jpg
-    alt: "placeholder image 9"
-    title: "Image 9 title caption"
+    alt: "Photo representing Copenhagen's restaurant scene"
+    title: "Restaurant TOLV is a haven in the middle of Vesterbro, Copenhagen. Credits: Daniel Rasmussen/Copenhagen Media Center."
 gallerybottom:
   - url: /assets/images/gallery-1.jpg
     image_path: /assets/images/gallery-1.jpg
