@@ -106,9 +106,13 @@ If you are interested in attending IEEE VIS 2021 at ITU, please [sign up](https:
 If you want to help organize part of the satellite event, please contact us directly (see below).
 
 ## Local Organization Committee
+
 Søren Knudsen (chair) [contact](https://pure.itu.dk/portal/en/persons/soeren-knudsen(2575c800-642d-4984-9c56-41601cf07a26).html)
+
 Aske Mottelson
+
 Luca Rossi
+
 Jichen Zhu
 
 More information soon.
