@@ -107,7 +107,7 @@ If you want to help organize part of the satellite event, please contact us dire
 
 ## Local Organization Committee
 
-Søren Knudsen (chair) (for inquiries, contact [soekn@itu.dk](mailto:soekn@itu.dk))
+Søren Knudsen (chair) (for inquiries, contact [soekn@itu.dk](mailto:soekn@itu.dk?subject=IEEEVIS 21 Copenhagen Satellite event at ITU))
 
 Aske Mottelson
 
