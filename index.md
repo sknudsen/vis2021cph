@@ -119,7 +119,7 @@ Jichen Zhu
 
 ---
 
-More information soon. For inquiries, contact [soekn@itu.dk](mailto:soekn@itu.dk?subject=IEEEVIS%202021%20Copenhagen%20Satellite%20event%20at%20ITU))
+More information soon. For inquiries, contact local chair, Søren Knudsen at [soekn@itu.dk](mailto:soekn@itu.dk?subject=IEEEVIS%202021%20Copenhagen%20Satellite%20event%20at%20ITU))
 
 ## Sponsors
 We currently finalize sponsor agreements and close our calls for sponsors soon. Sponsors to appear here. 
