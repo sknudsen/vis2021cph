@@ -115,6 +115,8 @@ Luca Rossi
 
 Jichen Zhu
 
+---
+
 More information soon.
 
 ## Sponsors
