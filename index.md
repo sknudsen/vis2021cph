@@ -107,7 +107,7 @@ If you want to help organize part of the satellite event, please contact us dire
 
 ## Local Organization Committee
 
-Søren Knudsen (chair) ([soekn@itu.dk](mailto:soekn@itu.dk?subject=IEEEVIS%202021%20Copenhagen%20Satellite%20event%20at%20ITU))
+Søren Knudsen (chair) 
 
 Luca Rossi
 
@@ -119,7 +119,7 @@ Jichen Zhu
 
 ---
 
-More information soon.
+More information soon. For inquiries, contact [soekn@itu.dk](mailto:soekn@itu.dk?subject=IEEEVIS%202021%20Copenhagen%20Satellite%20event%20at%20ITU))
 
 ## Sponsors
 We currently finalize sponsor agreements and close our calls for sponsors soon. Sponsors to appear here. 
