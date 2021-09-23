@@ -109,9 +109,11 @@ If you want to help organize part of the satellite event, please contact us dire
 
 Søren Knudsen (chair) (for inquiries, contact [soekn@itu.dk](mailto:soekn@itu.dk?subject=IEEEVIS%202021%20Copenhagen%20Satellite%20event%20at%20ITU))
 
+Luca Rossi
+
 Aske Mottelson
 
-Luca Rossi
+Mace Ojala
 
 Jichen Zhu
 
