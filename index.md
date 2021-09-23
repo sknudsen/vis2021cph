@@ -107,15 +107,15 @@ If you want to help organize part of the satellite event, please contact us dire
 
 ## Local Organization Committee
 
-Søren Knudsen (chair) 
+&emsp; Søren Knudsen (chair) 
 
-Luca Rossi
+&emsp; Luca Rossi
 
-Aske Mottelson
+&emsp; Aske Mottelson
 
-Mace Ojala
+&emsp; Mace Ojala
 
-Jichen Zhu
+&emsp; Jichen Zhu
 
 ---
 
