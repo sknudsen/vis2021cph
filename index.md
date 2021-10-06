@@ -69,13 +69,13 @@ In addition to the virtual program, the satellite program will provide several o
 
 We currently work on the following local events:
 
-| Day | Event |
-|:---- |:------ |
-| Monday | Visualization in Practice community meetup |
-| Tuesday | Design workshop |
-| Wednesday <br> &nbsp; <br> &nbsp;| Local Keynote <br> Poster session <br> eXplainable AI Workshop |
-| Thursday | Network Visualization Workshop |
-| Friday | Healthcare Data Workshop|
+| Day | Event | Time slot |
+|:--- |:----- |:--------- |
+| Monday | Visualization in Practice community meetup | 16.30-20.30 |
+| Tuesday | Design workshop | 10.00-14.30 (lunch break 12.00-13.00) |
+| Wednesday <br> &nbsp; <br> &nbsp;| eXplainable AI Workshop <br> Local Keynote <br> _Poster session_ | 9.00-12.00 <br> 14.00-15.00 <br> 18.30-19.30 <br> |
+| Thursday | Network Visualization Tutorial <br> Network Visualization Workshop | 9.00-12.00 <br> 13.00-14.30 |
+| Friday | Healthcare Data Workshop | 10.00-14.30 (lunch break 12.00-13.00) |
 
 We highly welcome time-shifted presentations of VIS conference talks.
 
