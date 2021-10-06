@@ -107,15 +107,15 @@ Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21c
 
 ## Local Organization Committee
 
-&emsp; Søren Knudsen (chair) 
+&emsp; Søren Knudsen, IT University of Copenhagen (chair)
 
-&emsp; Luca Rossi
+&emsp; Luca Rossi, IT University of Copenhagen
 
-&emsp; Aske Mottelson
+&emsp; Aske Mottelson, IT University of Copenhagen
 
-&emsp; Mace Ojala
+&emsp; Mace Ojala, IT University of Copenhagen
 
-&emsp; Jichen Zhu
+&emsp; Jichen Zhu, IT University of Copenhagen
 
 If you want to help organize part of the satellite event, please contact us directly (see below).
 
