@@ -7,8 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/itu-atrium.jpg
   actions:
-    - label: "Sign up to receive updates"
-      url: "https://forms.office.com/r/vq2L0ax4YK"
+#    - label: "Sign up to receive updates"
+#      url: "https://forms.office.com/r/vq2L0ax4YK"
+    - label: "Register for the event"
+      url: "https://vis21cph.eventbrite.dk"
 # excerpt: "The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen from Oct. 24-29"
 galleryfood:
   - url: /assets/images/gallery-10.jpg
@@ -101,9 +103,7 @@ Many more are still within easy reach of the satellite venue by walking, biking,
 
 ### Registration
 
-If you are interested in attending IEEE VIS 2021 at ITU, please [sign up](https://forms.office.com/r/vq2L0ax4YK) to receive updates via our mailing list and to help us gage interest for the event.
-
-If you want to help organize part of the satellite event, please contact us directly (see below).
+Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk). Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
 
 ## Local Organization Committee
 
@@ -116,6 +116,8 @@ If you want to help organize part of the satellite event, please contact us dire
 &emsp; Mace Ojala
 
 &emsp; Jichen Zhu
+
+If you want to help organize part of the satellite event, please contact us directly (see below).
 
 ---
 
