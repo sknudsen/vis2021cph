@@ -6,7 +6,7 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
-# logo: "/assets/images/ITU_logo_UK jpg.jpg"
+logo: "/assets/images/vis2021cph_logo_rgb.svg"
 header:
   teaser: "/assets/images/itu-atrium.jpg"
 author:
