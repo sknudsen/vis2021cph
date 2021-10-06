@@ -7,6 +7,7 @@ titles_from_headings:
   strip_title: true
   collections: true
 logo: "/assets/images/vis2021cph_logo_rgb.png"
+masthead_title: "My Custom Title"
 header:
   teaser: "/assets/images/itu-atrium.jpg"
 author:
