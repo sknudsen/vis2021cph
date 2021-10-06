@@ -1,4 +1,11 @@
+---
+title: "Network Visualization Tutorial in connection with Copenhagen IEEE VIS 2021 Satellite at ITU"
+layout: single
+permalink: /network-visualization-tutorial
+---
 Networks ubiquitously identified with a set of nodes carefully organized in a space and connected by edges. This happens regardless the fact that  nodes and edges are just one of the many ways we have available to represent networks. In few other cases the object of study and its visual representation have been so deeply intertwined with the difference between network analysis and network visualization often fading away. The VIS21CPH workshop on network visualization will explore the possibilities, open challenges and limits of the current approach to network visualization. 
+
+# Program
 
 The workshop is organized in two moments: 
 
