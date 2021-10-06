@@ -19,7 +19,7 @@ Slides are optional, but need to be shared with the organisers as pdf 24 hours p
 
 _We will post the participant list and slides here as they are shared with us_
 
-## Roundtable: Network Visualization beyond nodes and edges
+## 13.50-14.35: Beyond visualizing networks of vertices and edges
 
 In the second part of the workshop, a three-person panel initiate a discussion on the limits and possibilities of network visualization when dealing with more complex network models such as temporal networks, multilayer networks, and multipartite networks. 
 
