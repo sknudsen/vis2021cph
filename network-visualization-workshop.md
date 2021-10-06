@@ -24,12 +24,12 @@ _We will post the participant list and slides here as they are shared with us_
 In the second part of the workshop, a three-person panel initiate a discussion on the limits and possibilities of network visualization when dealing with more complex network models such as temporal networks, multilayer networks, and multipartite networks. 
 
 We are happy to be joined by a set of awesome panel members:
-* Mathieu Jacomy - Aalborg University
-* Matteo Magnani - Uppsala University
-* Michele Coscia - IT University of Copenhagen
+* Mathieu Jacomy, Aalborg University
+* Matteo Magnani, Uppsala University
+* Michele Coscia, IT University of Copenhagen
 
 *Location: ITU - Room information TBD*
 
 # Organizers
-* Luca Rossi - IT University of Copenhagen [lucr@itu.dk](mailto:lucr@itu.dk)
-* Søren Knudsen - IT University of Copenhagen [soekn@itu.dk](mailto:soekn@itu.dk)
+* Luca Rossi, IT University of Copenhagen [lucr@itu.dk](mailto:lucr@itu.dk)
+* Søren Knudsen, IT University of Copenhagen [soekn@itu.dk](mailto:soekn@itu.dk)
