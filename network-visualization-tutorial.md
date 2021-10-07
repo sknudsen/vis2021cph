@@ -16,5 +16,5 @@ Based on participants experience and the turnout, Mathieu Jacomy will slowly mov
 *Detailed program to follow. Location: ITU - Room information TBD*
 
 # Organizers
-* Luca Rossi - IT University of Copenhagen
-* Søren Knudsen - IT University of Copenhagen
+* Luca Rossi, IT University of Copenhagen
+* Søren Knudsen, IT University of Copenhagen
