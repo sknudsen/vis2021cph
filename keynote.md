@@ -1,5 +1,5 @@
 ---
-title: "Joost Grootens at Copenhagen IEEE VIS 2021 at ITU"
+title: "Keynote Speaker: Joost Grootens"
 layout: single
 permalink: /keynote
 #header:
@@ -27,7 +27,7 @@ The digital age has profoundly changed the way we produce, share and use informa
 
 ## Biography
 
-<figure style="width: 100px" class="align-right">
+<figure style="width: 200px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/keynote/joost-grootens.png" alt="">
 </figure> 
 
