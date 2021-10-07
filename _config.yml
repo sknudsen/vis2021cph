@@ -6,7 +6,7 @@ titles_from_headings:
   enabled:     true
   strip_title: true
   collections: true
-logo: "/assets/images/vis2021cph_logo_rgb_for_masthead.png"
+logo: "/assets/images/vis2021cph_logo_rgb-alt_for_masthead.png"
 masthead_title: " "
 header:
   teaser: "/assets/images/itu-atrium.jpg"
