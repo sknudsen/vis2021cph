@@ -17,7 +17,7 @@ gallery:
     title: "Example of Joost Grootens' work: Blind Maps and Blue Spots."
 ---
 
-{% include figure image_path="/assets/images/keynote/joost-grootens.jpg" alt="Photo of keynote speaker Joost Grootens" caption="Joost Grootens." %}
+{% include figure image_path="/assets/images/keynote/joost-grootens.jpg" alt="Photo of keynote speaker Joost Grootens" %}
 
 We are super excited to announce that Joost Grootens will give the keynote presentation at the Copenhagen IEEE VIS 2021 satellite at ITU.
 
