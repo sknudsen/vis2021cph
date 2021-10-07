@@ -37,5 +37,5 @@ Grootens was recently appointed Professor of Artistic Research in Visual Design 
 
 Grootens studied architectural design at Gerrit Rietveld Academy Amsterdam and obtained his doctorate at Leiden University. A public edition of his dissertation Blind Maps and Blue Dots: The Blurring of the Producer-User Divide in the Production of Visual Information was published by Lars Müller Publishers in 2021. Grootens’ research addresses the transformation of the fields and practices of graphic design and mapmaking resulting from technological changes in tools to record, create, edit, produce and disseminate visual information.
 
-
+{% include figure image_path="/assets/images/keynote/joost-grootens.jpg" alt="Photo of keynote speaker Joost Grootens" caption="Joost Grootens." %}
 
