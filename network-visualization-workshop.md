@@ -1,5 +1,5 @@
 ---
-title: "Network Visualization Workshop in connection with Copenhagen IEEE VIS 2021 Satellite at ITU"
+title: "Workshop on Network Visualization"
 layout: single
 permalink: /network-visualization-workshop
 ---
