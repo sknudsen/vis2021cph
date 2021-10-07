@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Network Visualization"
+title: "Workshop on Network Visualization (Thursday October 28)"
 layout: single
 permalink: /network-visualization-workshop
 ---
@@ -9,7 +9,7 @@ The vis21cph workshop on network visualization will explore the possibilities, o
 
 # Program
 
-We organize the Network Visualization Workshop in two parts. 
+The workshop is scheduled for the early afternoon of Thursday October 28, 2021 at ITU. We organize the Network Visualization Workshop in two parts. 
 
 ## 13.00-13.45: Introduction by participants
 
