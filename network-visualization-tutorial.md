@@ -1,31 +1,19 @@
 ---
-title: "Network Visualization Tutorial in connection with Copenhagen IEEE VIS 2021 Satellite at ITU"
+title: "Tutorial: Network Visualization in Gephi and beyond"
 layout: single
 permalink: /network-visualization-tutorial
 ---
-Networks ubiquitously identified with a set of nodes carefully organized in a space and connected by edges. This happens regardless the fact that  nodes and edges are just one of the many ways we have available to represent networks. In few other cases the object of study and its visual representation have been so deeply intertwined with the difference between network analysis and network visualization often fading away. 
-
-The vis21cph workshop on network visualization will explore the possibilities, open challenges and limits of the current approach to network visualization. 
-
-# Program
-
-The Network Visualization Workshop is organized in two parts: 
+Networks are ubiquitously identified with a set of nodes carefully organized in a space and connected by line links. This happens regardless the fact that nodes and links are just one of the many ways we have available to represent vertices and edges in networks. In few other areas has the object of study and its visual representation been so deeply intertwined as with network analysis and network visualization, to the point where the difference between the two is often fading away. 
 
 ## 9.00-12.00: Visual exploration of networks and network data
-Starting from his experience developing the network visualization software Gephi, Mathieu Jacomy will present the possibilities and the epistemological consequences of visual exploration of network data. 
 
-*Location: ITU - Room information TBD*
+Starting from his experience developing the network visualization tool Gephi, Mathieu Jacomy will present the possibilities and the epistemological consequences of visual exploration of network data. 
 
-## 13.00-14.35: Roundtable: Network Visualization beyond nodes and edges
-During the second part of the workshop, a three-person panel will initiate a discussion on the limits and possibilities of network visualization when dealing with more complex network models such as temporal networks, multilayer networks, and multipartite networks. 
+He will give a few technical landmarks to ensure that everyone has the basics covered, and from there move to more interesting stuff about interpreting visualizations and exploring data. 
 
-### Panel
-We are happy to be joined by a set of awesome panel members:
-* Mathieu Jacomy - Aalborg University
-* Matteo Magnani - Uppsala University
-* Michele Coscia - IT University of Copenhagen
+Based on participants experience and the turnout, Mathieu Jacomy will slowly move from technical questions to more epistemic questions.
 
-*Location: ITU - Room information TBD*
+*Detailed program to follow. Location: ITU - Room information TBD*
 
 # Organizers
 * Luca Rossi - IT University of Copenhagen
