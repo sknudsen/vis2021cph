@@ -31,7 +31,7 @@ Grootens studied architectural design at Gerrit Rietveld Academy Amsterdam and o
 
 The digital age has profoundly changed the way we produce, share and use information. As the traditional intermediaries between editors and readers, designers of information have to establish a new balance between these forces. In doing so, they need to redefine their own position as well. Next to designing digital information environments, maps, information visualizations, typefaces and spatial installations Joost Grootens works primarily in the field of book design, acknowledging the growing need for visual representation of data. The books he makes present knowledge, but they also question the relevance of typologies such as catalogues, indexes and atlases as part of an ongoing research process. Grootens likes to deal with complexity, showing that it is a misconception to assume that something complex should look complicated. 
 
-{% include gallery id="gallery" class="full" caption="Excerpt from _Blind Maps and Blue Spots: The Blurring of the Producer-User Divide in the Production of Visual Information_. Joost Grootens, 2021" %}
+{% include gallery id="gallery" class="full" caption="Excerpt from _Blind Maps and Blue Spots: The Blurring of the Producer-User Divide in the Production of Visual Information_, Joost Grootens. Lars Müller Publishers, 2021" %}
 
 
 
