@@ -28,7 +28,7 @@ The digital age has profoundly changed the way we produce, share and use informa
 ## Biography
 
 <figure style="width: 200px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/keynote/joost-grootens.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/keynote/joost-grootens.jpg" alt="">
 </figure> 
 
 Joost Grootens is a graphic designer, educator and researcher. His studio SJG designs books, maps, typefaces, spatial installations and digital information environments for publishers like Lars Müller Publishers, nai010 publishers, Phaidon press, educational and research institutes like ETH Zürich, Future Cities Laboratory Singapore, TU Munich, and museums like Astrup Fearnly Museet Oslo, Serpentine Galleries London, Van Abbemuseum Eindhoven. SJG won numerous prizes for their designs. Among them the Golden Letter and two gold medals in the Best Book Design from all over the World competition, and twice the Dutch Design Award for Graphic Design. A monograph about SJG’s work titled I swear I use no art at all was published by 010 Publishers in 2010.
