@@ -8,6 +8,10 @@ Articificial Intelligence (AI) is increasingly used to support decision-making o
 
 In this workshop, we invite participants to share their perspectives on XAI and data visualization.
 
+## How to attend
+
+If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
+
 # Program
 
 The workshop is scheduled for the morning of Wednesday October 27, 2021 at ITU. We organize the workshop in two parts. 
@@ -31,7 +35,8 @@ In the second part, we group up acccording to themes emerging from the introduct
 **Time**: 9.00-12.00
 
 # Organizers
-* Jichen Zhu, IT University of Copenhagen
 * Søren Knudsen, IT University of Copenhagen
+* Imke Grabe, IT University of Copenhagen
+* Jichen Zhu, IT University of Copenhagen
 
 
