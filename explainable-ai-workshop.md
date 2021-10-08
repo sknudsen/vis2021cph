@@ -1,5 +1,5 @@
 ---
-title: "Workshop on eXplainable AI and Data Visualization (Wednesday October 27)"
+title: "Workshop on eXplainable AI and Data Visualization"
 layout: single
 permalink: /explainable-ai-workshop
 ---
@@ -26,7 +26,7 @@ In the second part, we group up acccording to themes emerging from the introduct
 
 **Location**: ITU, _room tbd_
 
-**Date**: Wed October 27, 2021
+**Date**: Wednesday October 27, 2021
 
 **Time**: 9.00-12.00
 
