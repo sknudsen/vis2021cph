@@ -5,7 +5,10 @@ permalink: /network-visualization-tutorial
 ---
 Networks are ubiquitously identified with a set of nodes carefully organized in a space and connected by line links. This happens regardless of the fact that nodes and links are just one of the many ways we have available to represent vertices and edges in networks. In few other areas has the object of study and its visual representation been so deeply intertwined as with network analysis and network visualization, to the point where the difference between the two is often fading away. 
 
-![image-right](/assets/images/mathieu-jacomy-round.jpg){: .align-right}
+<figure style="width: 150px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mathieu-jacomy-round.jpg" alt="">
+</figure> 
+
 
 The tutorial is given by Mathieu Jacomy. Mathieu is part of the core Gephi team and initiated the Gephi network analysis software, notably through algorithms like ForceAtlas2. When not working on Gephi, he develops other digital tools for the social sciences and provides support and advice in digital methods to scholars. He investigates how digital knowledge technologies transform our relation to complex phenomena. His current research focuses on visual network analysis and exploration, issue mapping, developing tools for digital methods and reflecting on methodological aspects. 
 
