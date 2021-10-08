@@ -8,6 +8,10 @@ Articificial Intelligence (AI) is increasingly used to support decision-making o
 
 In this workshop, we invite participants to share their perspectives on Healthcare Data and Visual Representations of Data.
 
+## How to attend
+
+If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
+
 # Program
 
 The workshop is scheduled for the morning and early afternoon of Friday October 29, 2021 at ITU. We organize the workshop in two parts. 
