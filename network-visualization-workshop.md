@@ -3,7 +3,7 @@ title: "Workshop on Network Visualization (Thursday October 28)"
 layout: single
 permalink: /network-visualization-workshop
 ---
-Networks are ubiquitously identified with a set of nodes carefully organized in a space and connected by line links. This happens regardless the fact that nodes and links are just one of the many ways we have available to represent vertices and edges in networks. In few other areas has the object of study and its visual representation been so deeply intertwined as with network analysis and network visualization, to the point where the difference between the two is often fading away.
+Networks are ubiquitously identified with a set of nodes carefully organized in a space and connected by line links. This happens regardless of the fact that nodes and links are just one of the many ways we have available to represent vertices and edges in networks. In few other areas has the object of study and its visual representation been so deeply intertwined as with network analysis and network visualization, to the point where the difference between the two is often fading away.
 
 The vis21cph workshop on network visualization will explore the possibilities, open challenges and limits of the current approach to network visualization. 
 
