@@ -17,7 +17,7 @@ The tutorial is scheduled for the morning of Thursday October 28, 2021 at ITU.
 
 ## How to attend
 
-If you would like to attend the tutorial, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
+If you would like to attend the tutorial, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for the tutorial. If you already registered, you can still add tutorial attendance.
 
 # Program
 
