@@ -12,9 +12,15 @@ In this workshop, we invite participants to share their perspectives on Healthca
 
 If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
 
+**Location**: ITU, _room tbd_
+
+**Date**: Friday October 29, 2021
+
+**Time**: 10.00-14.30
+
 # Program
 
-The workshop is scheduled for the morning and early afternoon of Friday October 29, 2021 at ITU. We organize the workshop in two parts. 
+The workshop is scheduled for the morning and early afternoon of Friday October 29, 2021 at ITU. We organize the workshop in three parts. 
 
 ## 9.30-10.30: Welcome and introduction by participants
 
@@ -24,15 +30,14 @@ Slides are optional, but need to be shared with the organisers as pdf 24 hours p
 
 _We will post the participant list and slides here as they are shared with us_
 
-## 10.20-12.00: Group discussions
+## 11.00-12.00: Group forming and discussions
 
-In the second part, we group up acccording to themes emerging from the introductions, in terms of interests and perspectives. Themes can be anything from shared interest in a specific aspect of XAI, formulating concrete research questions, or potential collaborations around this topic. Workshop participants discuss individual themes in groups and reconvene at 11.30 to share group discussions with the other workshop participants.
+In the second part, we group up acccording to themes emerging from the introductions, in terms of interests and perspectives. Themes can be anything from shared interest in a specific aspect of healthcare data, formulating concrete research questions, or potential collaborations around this topic. Workshop participants work on the individual themes in groups.
 
-**Location**: ITU, _room tbd_
+## 12.00-13.00: _Lunch Break_
 
-**Date**: Wednesday October 27, 2021
-
-**Time**: 9.00-12.00
+## 13.00-14.30: Group discussions and sharing
+We continue our work in groups in the the third part of the workshop and reconvene at 14.00 to share the results of the group work and discussions with the other workshop participants.
 
 # Organizers
 * Bent Grubb Laursen, Rigshospitalet
