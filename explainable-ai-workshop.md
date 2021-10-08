@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Network Visualization in Gephi and beyond (Thursday October 28)"
+title: "Workshop on eXplainable AI and Data Visualization (Wednesday October 27)"
 layout: single
 permalink: /explainable-ai-workshop
 ---
