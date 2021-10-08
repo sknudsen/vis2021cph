@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Network Visualization in Gephi and beyond (Thursday October 28)"
+title: "Tutorial: Network Visualization in Gephi and beyond"
 layout: single
 permalink: /network-visualization-tutorial
 ---
