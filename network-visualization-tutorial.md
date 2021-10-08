@@ -3,7 +3,15 @@ title: "Tutorial: Network Visualization in Gephi and beyond (Thursday October 28
 layout: single
 permalink: /network-visualization-tutorial
 ---
-Networks are ubiquitously identified with a set of nodes carefully organized in a space and connected by line links. This happens regardless the fact that nodes and links are just one of the many ways we have available to represent vertices and edges in networks. In few other areas has the object of study and its visual representation been so deeply intertwined as with network analysis and network visualization, to the point where the difference between the two is often fading away. 
+Networks are ubiquitously identified with a set of nodes carefully organized in a space and connected by line links. This happens regardless of the fact that nodes and links are just one of the many ways we have available to represent vertices and edges in networks. In few other areas has the object of study and its visual representation been so deeply intertwined as with network analysis and network visualization, to the point where the difference between the two is often fading away. 
+
+The tutorial is scheduled for the morning of Thursday October 28, 2021 at ITU.
+
+## How to attend
+
+If you would like to attend the tutorial, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
+
+# Program
 
 The tutorial is scheduled for the morning of Thursday October 28, 2021 at ITU.
 
