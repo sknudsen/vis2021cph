@@ -7,6 +7,10 @@ Networks are ubiquitously identified with a set of nodes carefully organized in 
 
 The vis21cph workshop on network visualization will explore the possibilities, open challenges and limits of the current approach to network visualization. 
 
+## How to attend
+
+If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
+
 # Program
 
 The workshop is scheduled for the early afternoon of Thursday October 28, 2021 at ITU. We organize the Network Visualization Workshop in two parts. 
