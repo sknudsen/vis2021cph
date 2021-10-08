@@ -8,9 +8,25 @@ Articificial Intelligence (AI) is increasingly used to support decision-making o
 
 In this workshop, we invite participants to share their perspectives on XAI and data visualization.
 
-The tutorial is scheduled for the morning of Wednesday October 27, 2021 at ITU.
+# Program
 
-*Detailed program to follow. Location: ITU - Room information TBD*
+The workshop is scheduled for the morning of Wednesday October 27, 2021 at ITU. We organize the workshop in two parts. 
+
+## 9.00-10.00: Welcome and introduction by participants
+
+In the first part of the workshop, participants briefly introduce themselves, their work in relation to XAI and data visualization, and their motivation for participating in the workshop (up to three minutes per participant) . 
+
+Slides are optional, but need to be shared with the organisers as pdf 24 hours prior to the workshop (contact information below). 
+
+_We will post the participant list and slides here as they are shared with us_
+
+## 10.20-12.00: Group discussions
+
+In the second part, we group up acccording to themes emerging from the introductions, in terms of interests and perspectives. Themes can be anything from shared interest in a specific aspect of XAI, formulating concrete research questions, or potential collaborations around this topic. Workshop participants discuss individual themes in groups and reconvene at 11.30 for sharing the groups discussions in plenum.
+
+Location: ITU, _room tbd_
+Date: Wed October 27, 2021
+Time: 9.00-12.00
 
 # Organizers
 * Jichen Zhu, IT University of Copenhagen
