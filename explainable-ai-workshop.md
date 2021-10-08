@@ -24,9 +24,11 @@ _We will post the participant list and slides here as they are shared with us_
 
 In the second part, we group up acccording to themes emerging from the introductions, in terms of interests and perspectives. Themes can be anything from shared interest in a specific aspect of XAI, formulating concrete research questions, or potential collaborations around this topic. Workshop participants discuss individual themes in groups and reconvene at 11.30 for sharing the groups discussions in plenum.
 
-Location: ITU, _room tbd_
-Date: Wed October 27, 2021
-Time: 9.00-12.00
+**Location**: ITU, _room tbd_
+
+**Date**: Wed October 27, 2021
+
+**Time**: 9.00-12.00
 
 # Organizers
 * Jichen Zhu, IT University of Copenhagen
