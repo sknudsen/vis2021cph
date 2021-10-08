@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Healthcare Data and Visual Representations of Data"
+title: "Workshop on Healthcare Data and Data Visualization"
 layout: single
 permalink: /healthcare-data-workshop
 ---
