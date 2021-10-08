@@ -7,6 +7,7 @@ Networks are ubiquitously identified with a set of nodes carefully organized in 
 
 <figure style="width: 150px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mathieu-jacomy-round.jpg" alt="">
+  <figcaption>Mathieu Jacomy at Backscatter.</figcaption>
 </figure> 
 
 
