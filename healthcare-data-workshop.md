@@ -48,3 +48,4 @@ We continue our work in groups in the the third part of the workshop and reconve
 # Organizers
 * Søren Knudsen, IT University of Copenhagen
 * Bent Grubb Laursen, Rigshospitalet
+* Christian Michel Sørup, Rigshospitalet
