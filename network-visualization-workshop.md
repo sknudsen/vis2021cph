@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Network Visualization (Thursday October 28)"
+title: "Workshop on Network Visualization"
 layout: single
 permalink: /network-visualization-workshop
 ---
