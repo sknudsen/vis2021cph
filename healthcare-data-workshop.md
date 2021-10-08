@@ -4,9 +4,15 @@ layout: single
 permalink: /healthcare-data-workshop
 ---
 
-Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes — the decisions made are rarely clear or transparent. Providing explanations to allow stakeholders to understand AI has thus become a societal concern. In response, the field of eXplainable AI (XAI) considers technical appproaches to help people better understand the processes involved in automated decision-making and the results emerging from them. Thus, XAI promises to help open the _black box_ of AI.
+Healtcare services increasingly use healthcare data to offer better healthcare services and healthcare data play an important role both on an operational and strategic level. Visual data representations in healthcare too have a long history. For example, the use of visual representations in epidemiology date back at least to the 1850'ies, when Florence Nightingale created the "Rose Diagram" to show that epidemic disease could be controlled by a variety of factors including nutrition, ventilation, and shelter or John Snow plotted the location of deaths from cholera in central London for September 1854 on a map.
 
-In this workshop, we invite participants to share their perspectives on Healthcare Data and Visual Representations of Data.
+Nowadays, access to rich data sets, pervasive displays and visualization and analytics technology has greatly reduced the distance between data and insights. Patient-led analysis is emerging as a new field of inquiry, _two other interesting possibilties on the horizon (maybe something about Precision Medicine?)_. Yet, data access in healthcare is still difficult and questions surrounding topics such as data quality, data interpretability, data provenance, and data comparability are getting more complicated. Healthcare professionals and organizations question how to tap into the promising value of data, in both clinical/operational and in strategic contexts.
+
+<!--
+In Denmark, we have a long history of high-quality healthcare data. Recent developments in the healthcare services organisation, such as "Sundhedsplatformen", have asked clinicians to spend more time on administrative tasks, with limited benefit in return. We are interested in exploring organizational responses to data use and  
+ -->
+ 
+With this backdrop, we invite participants in our workshop to share their perspectives on Healthcare Data and Visual Representations of Data.
 
 ## How to attend
 
@@ -24,7 +30,7 @@ The workshop is scheduled for the morning and early afternoon of Friday October 
 
 ## 9.30-10.30: Welcome and introduction by participants
 
-In the first part of the workshop, participants briefly introduce themselves, their work in relation to XAI and data visualization, and their motivation for participating in the workshop (up to three minutes per participant) . 
+In the first part of the workshop, participants briefly introduce themselves, their work in relation to healthcare data and visual representations, and their motivation for participating in the workshop (up to three minutes per participant) . 
 
 Slides are optional, but need to be shared with the organisers as pdf 24 hours prior to the workshop (contact information below). 
 
@@ -40,7 +46,5 @@ In the second part, we group up acccording to themes emerging from the introduct
 We continue our work in groups in the the third part of the workshop and reconvene at 14.00 to share the results of the group work and discussions with the other workshop participants.
 
 # Organizers
-* Bent Grubb Laursen, Rigshospitalet
 * Søren Knudsen, IT University of Copenhagen
-
-
+* Bent Grubb Laursen, Rigshospitalet
