@@ -5,7 +5,7 @@ permalink: /visinpractice-with-dataviz-cph
 ---
 The vis21cph and [DataViz CPH](https://www.meetup.com/meetup-group-DseDTisF/) organizers are teaming up to create an opportunity for conference attendees and members of the meetup group to meet and join a part of the conference together.
 
-
+{% include figure image_path="https://visinpractice.github.io/assets/a-visinpractice_panel2.png" alt="Panel 2: Tools of the Trade" %}
 
 ## How to attend?
 
