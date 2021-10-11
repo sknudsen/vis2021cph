@@ -13,41 +13,41 @@ header:
       url: "https://vis21cph.eventbrite.dk"
 # excerpt: "The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen from Oct. 24-29"
 galleryfood:
-  - url: /assets/images/gallery-10.jpg
-    image_path: /assets/images/gallery-10.jpg
+  - url: /assets/images/copenhagen/gallery-10.jpg
+    image_path: /assets/images/copenhagen/gallery-10.jpg
     alt: "Photo representing Copenhagen's restaurant scene"
     title: "Gro Spiseri and Gro Eatery is Denmark’s first rooftop farm and restaurant. Credits: Anders Hviid-Haglund/Copenhagen Media Center."
-  - url: /assets/images/gallery-8.jpg
-    image_path: /assets/images/gallery-8.jpg
+  - url: /assets/images/copenhagen/gallery-8.jpg
+    image_path: /assets/images/copenhagen/gallery-8.jpg
     alt: "Photo representing Copenhagen's restaurant scene"
     title: "Restaurant TOLV is a haven in the middle of Vesterbro, Copenhagen. Credits: Daniel Rasmussen/Copenhagen Media Center."
-  - url: /assets/images/gallery-9.jpg
-    image_path: /assets/images/gallery-9.jpg
+  - url: /assets/images/copenhagen/gallery-9.jpg
+    image_path: /assets/images/copenhagen/gallery-9.jpg
     alt: "Photo representing Copenhagen's restaurant scene"
     title: "Restaurant TOLV is a haven in the middle of Vesterbro, Copenhagen. Credits: Daniel Rasmussen/Copenhagen Media Center."
 gallerybottom:
-  - url: /assets/images/gallery-1.jpg
-    image_path: /assets/images/gallery-1.jpg
+  - url: /assets/images/copenhagen/gallery-1.jpg
+    image_path: /assets/images/copenhagen/gallery-1.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Daniel Rasmussen/Copenhagen Media Center."
-  - url: /assets/images/gallery-2.jpg
-    image_path: /assets/images/gallery-2.jpg
+  - url: /assets/images/copenhagen/gallery-2.jpg
+    image_path: /assets/images/copenhagen/gallery-2.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Morten Jerichau/Copenhagen Media Center."
-  - url: /assets/images/gallery-3.jpg
-    image_path: /assets/images/gallery-3.jpg
+  - url: /assets/images/copenhagen/gallery-3.jpg
+    image_path: /assets/images/copenhagen/gallery-3.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Martin Heiberg/Copenhagen Media Center."
-  - url: /assets/images/gallery-4.jpg
-    image_path: /assets/images/gallery-4.jpg
+  - url: /assets/images/copenhagen/gallery-4.jpg
+    image_path: /assets/images/copenhagen/gallery-4.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Martin Heiberg/Copenhagen Media Center."
-  - url: /assets/images/gallery-5.jpg
-    image_path: /assets/images/gallery-5.jpg
+  - url: /assets/images/copenhagen/gallery-5.jpg
+    image_path: /assets/images/copenhagen/gallery-5.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Oliver Sperling/Copenhagen Media Center."
-  - url: /assets/images/gallery-6.jpg
-    image_path: /assets/images/gallery-6.jpg
+  - url: /assets/images/copenhagen/gallery-6.jpg
+    image_path: /assets/images/copenhagen/gallery-6.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 feature_row_program:
@@ -65,31 +65,35 @@ feature_row_program:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - title: "Tutorial: Network Visualization in Gephi and beyond"
+  - image_path: assets/images/workshops-tutorials/dh-network.png
+    alt: "Figure from http://www.martingrandjean.ch/digital-humanities-on-twitter/"
+    title: "Tutorial: Network Visualization in Gephi and beyond"
     excerpt: The tutorial is given by Mathieu Jacomy. Mathieu is part of the core Gephi team and initiated the Gephi network analysis software, notably through algorithms like ForceAtlas2. When not working on Gephi, ..."
     url: "/network-visualization-tutorial"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row_inviso:
   - image_path: /assets/images/sponsors/inviso-by-devoteam_logo_rgb.png
     alt: "Supporter logo: Inviso by Devoteam"
     title: "Supporters"
     excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation.'
 ---
-The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
-{: .notice}The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, we will meet at ITU to stream the virtual event together and to interact through associated local events.
+{: .notice style="font-size: 1.0em !important;"}
+The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
+<br><br>
+The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, we will meet at ITU to stream the virtual event together and to interact through associated local events.
 
 ---
 
 {% include feature_row id="feature_row_program" %}
 
-{: .notice}{% include feature_row id="feature_row_inviso" type="right" %}
-
+{: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_inviso" type="right" %}
 
 ## The Program
 
-The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.20 local time (CEST). 
+The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.20 local time (CEST).
 
 We provide a fully catered event with free registration.
 
@@ -111,13 +115,13 @@ We currently work on the following local events:
 
 We highly welcome time-shifted presentations of VIS conference talks.
 
-Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us. 
+Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us.
 
 In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
 # Attending
 
-The satellite event takes place in beatiful Copenhagen, which offers a vibrant restaurant and bar scene and great cultural expriences, for example, at the city's many museums or simply when walking among the many historic buildings — the city is known for being very walkable. 
+The satellite event takes place in beatiful Copenhagen, which offers a vibrant restaurant and bar scene and great cultural expriences, for example, at the city's many museums or simply when walking among the many historic buildings — the city is known for being very walkable.
 
 {% include gallery id="galleryfood" caption="Enjoy the vibrant restaurant and bar scene in Copenhagen." %}
 
