@@ -85,11 +85,11 @@ In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
 ## Supporters
 
+vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation. 
+
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sponsors/inviso-by-devoteam_logo_rgb.png" alt="Inviso by Devoteam logo">
 </figure> 
-
-vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation. 
 
 We close our calls for sponsors soon.
 
