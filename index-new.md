@@ -51,17 +51,17 @@ gallerybottom:
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 feature_row_program:
+  - title: "Workshop on eXplainable AI and Data Visualization"
+    excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes and lacking transparency. Providing explanations to allow stakeholders to understand AI has thus become a societal concern. In response, ..."
+    url: "/explainable-ai-workshop"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
   - image_path: assets/images/keynote/joost-grootens.jpg
     alt: "Photo of keynote speaker Joost Grootens"
     title: "Keynote by Joost Grootens"
     excerpt: "Joost Grootens is an award-winning graphic designer, educator and researcher. Grootens work primarily with data represenation in book form. In his work, he explores typologies such as catalogues, indexes, and atlasses..."
     url: "/keynote"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-  - title: "Workshop on eXplainable AI and Data Visualization"
-    excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes and lacking transparency. Providing explanations to allow stakeholders to understand AI has thus become a societal concern. In response, ..."
-    url: "/explainable-ai-workshop"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
