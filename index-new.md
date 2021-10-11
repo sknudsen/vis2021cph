@@ -85,7 +85,7 @@ In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
 ## Supporters
 
-<figure style="width: 150px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sponsors/inviso-by-devoteam_logo_rgb.png" alt="Inviso by Devoteam logo">
 </figure> 
 
