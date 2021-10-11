@@ -1,7 +1,7 @@
 ---
 title: "VisInPractice streaming co-organized with DataViz CPH"
 layout: single
-permalink: /data-vis-cph-meetup
+permalink: /visinpractice-with-dataviz-cph
 ---
 The vis21cph and [DataViz CPH](https://www.meetup.com/meetup-group-DseDTisF/) organizers are teaming up to create an opportunity for conference attendees and members of the meetup group to meet and join a part of the conference together.
 
