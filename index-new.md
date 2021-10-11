@@ -50,11 +50,6 @@ gallerybottom:
     image_path: /assets/images/gallery-6.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
-gallerysponsors:
-  - url: /assets/images/sponsors/inviso-by-devoteam_logo_rgb.png
-    image_path: /assets/images/sponsors/inviso-by-devoteam_logo_rgb.png
-    alt: "Inviso by Devoteam logo."
-    title: ""
 ---
 The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
@@ -90,9 +85,11 @@ In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
 ## Supporters
 
-vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation. 
+<figure style="width: 150px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sponsors/inviso-by-devoteam_logo_rgb.png" alt="Inviso by Devoteam logo">
+</figure> 
 
-{% include gallery id="gallerysponsors"%}
+vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation. 
 
 We close our calls for sponsors soon.
 
