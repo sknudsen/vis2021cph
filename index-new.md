@@ -78,7 +78,7 @@ feature_row_inviso:
 ---
 The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
-The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, we will meet at ITU to stream the virtual event together and to interact through associated local events.
+{: .notice}The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, we will meet at ITU to stream the virtual event together and to interact through associated local events.
 
 ---
 
