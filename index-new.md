@@ -67,7 +67,7 @@ feature_row_program:
 
   - image_path: assets/images/workshops-tutorials/dh-network.png
     alt: "Figure from http://www.martingrandjean.ch/digital-humanities-on-twitter/"
-    title: "Tutorial: Network Visualization in Gephi and beyond"
+    title: "Tutorial: Gephi and Beyond"
     excerpt: The tutorial is given by Mathieu Jacomy. Mathieu is part of the core Gephi team and initiated the Gephi network analysis software, notably through algorithms like ForceAtlas2. When not working on Gephi, ..."
     url: "/network-visualization-tutorial"
     btn_label: "Read More"
