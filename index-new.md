@@ -82,7 +82,7 @@ The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 202
 
 The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, we will meet at ITU to stream the virtual event together and to interact through associated local events.
 
-{% include feature_row id="feature_row_program" type="center" %}
+{% include feature_row id="feature_row_program" %}
 
 {% include feature_row id="feature_row_inviso" type="right" %}
 
