@@ -53,8 +53,8 @@ gallerybottom:
 feature_row_inviso:
   - image_path: /assets/images/sponsors/inviso-by-devoteam_logo_rgb.png
     alt: "Supporter logo: Inviso by Devoteam"
-    title: ""
-    excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation.'
+    title: "Supporters"
+    excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation. We close our calls for sponsors soon.'
 ---
 The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
@@ -88,11 +88,7 @@ Please check back later for more details about our local program. If you would l
 
 In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
-## Supporters
-
 {% include feature_row id="feature_row_inviso" type="right" %}
-
-We close our calls for sponsors soon.
 
 # Attending
 
