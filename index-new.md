@@ -59,16 +59,14 @@ feature_row_program:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/keynote/joost-grootens.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "..."
-    url: "/keynote"
+  - title: "Workshop on eXplainable AI and Data Visualization"
+    excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes and lacking transparency. Providing explanations to allow stakeholders to understand AI has thus become a societal concern. In response, ..."
+    url: "/explainable-ai-workshop"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - title: "network-visualization-tutorial"
-    excerpt: "..."
+  - title: "Tutorial: Network Visualization in Gephi and beyond"
+    excerpt: The tutorial is given by Mathieu Jacomy. Mathieu is part of the core Gephi team and initiated the Gephi network analysis software, notably through algorithms like ForceAtlas2. When not working on Gephi, ..."
     url: "/network-visualization-tutorial"
     btn_label: "Read More"
     btn_class: "btn--primary"
