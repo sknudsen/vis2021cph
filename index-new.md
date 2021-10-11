@@ -52,24 +52,26 @@ gallerybottom:
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 feature_row_program:
   - image_path: assets/images/keynote/joost-grootens.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "The digital age has profoundly changed the way we produce, share and use information. As the traditional intermediaries between editors and readers, designers of information have to establish a new balance between these forces. In doing so, they need to redefine their own position as well. Next to designing digital information environments, maps, information visualizations, typefaces and spatial installations Joost Grootens works primarily in the field of book design, acknowledging the growing need for visual representation of data..."
+    alt: "Photo of keynote speaker Joost Grootens"
+    title: "Keynote by Joost Grootens"
+    excerpt: "Joost Grootens is an award-winning graphic designer, educator and researcher. Grootens work primarily with data represenation in book form. In his work, he explores typologies such as catalogues, indexes, and atlasses..."
     url: "/keynote"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
   - image_path: assets/images/keynote/joost-grootens.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "The digital age has profoundly changed the way we produce, share and use information. As the traditional intermediaries between editors and readers, designers of information have to establish a new balance between these forces. In doing so, they need to redefine their own position as well. Next to designing digital information environments, maps, information visualizations, typefaces and spatial installations Joost Grootens works primarily in the field of book design, acknowledging the growing need for visual representation of data..."
+    excerpt: "..."
     url: "/keynote"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
   - image_path: assets/images/keynote/joost-grootens.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
-    excerpt: "The digital age has profoundly changed the way we produce, share and use information. As the traditional intermediaries between editors and readers, designers of information have to establish a new balance between these forces. In doing so, they need to redefine their own position as well. Next to designing digital information environments, maps, information visualizations, typefaces and spatial installations Joost Grootens works primarily in the field of book design, acknowledging the growing need for visual representation of data..."
-    url: "/keynote"
+    excerpt: "..."
+    url: "/network-visualization-tutorial"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_inviso:
