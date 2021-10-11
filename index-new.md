@@ -50,6 +50,28 @@ gallerybottom:
     image_path: /assets/images/gallery-6.jpg
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
+feature_row_program:
+  - image_path: assets/images/keynote/joost-grootens.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "The digital age has profoundly changed the way we produce, share and use information. As the traditional intermediaries between editors and readers, designers of information have to establish a new balance between these forces. In doing so, they need to redefine their own position as well. Next to designing digital information environments, maps, information visualizations, typefaces and spatial installations Joost Grootens works primarily in the field of book design, acknowledging the growing need for visual representation of data..."
+    url: "/keynote"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/keynote/joost-grootens.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "The digital age has profoundly changed the way we produce, share and use information. As the traditional intermediaries between editors and readers, designers of information have to establish a new balance between these forces. In doing so, they need to redefine their own position as well. Next to designing digital information environments, maps, information visualizations, typefaces and spatial installations Joost Grootens works primarily in the field of book design, acknowledging the growing need for visual representation of data..."
+    url: "/keynote"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: assets/images/keynote/joost-grootens.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "The digital age has profoundly changed the way we produce, share and use information. As the traditional intermediaries between editors and readers, designers of information have to establish a new balance between these forces. In doing so, they need to redefine their own position as well. Next to designing digital information environments, maps, information visualizations, typefaces and spatial installations Joost Grootens works primarily in the field of book design, acknowledging the growing need for visual representation of data..."
+    url: "/keynote"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row_inviso:
   - image_path: /assets/images/sponsors/inviso-by-devoteam_logo_rgb.png
     alt: "Supporter logo: Inviso by Devoteam"
@@ -59,6 +81,10 @@ feature_row_inviso:
 The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen, Denmark, Oct. 24-29 (week 43).
 
 The event will bring together local communities of people from academia and industry, both students and professionals that all share an interest in data visualization. During the IEEE VIS 2021 virtual event, we will meet at ITU to stream the virtual event together and to interact through associated local events.
+
+{% include feature_row id="feature_row_program" type="center" %}
+
+{% include feature_row id="feature_row_inviso" type="right" %}
 
 ## The Program
 
@@ -87,8 +113,6 @@ We highly welcome time-shifted presentations of VIS conference talks.
 Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us. 
 
 In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
-
-{% include feature_row id="feature_row_inviso" type="right" %}
 
 # Attending
 
