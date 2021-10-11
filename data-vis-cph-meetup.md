@@ -1,39 +1,37 @@
 ---
-title: "Tutorial: Network Visualization in Gephi and beyond"
+title: "VisInPractice streaming co-organized with DataViz CPH"
 layout: single
-permalink: /network-visualization-tutorial
+permalink: /data-vis-cph-meetup
 ---
-Networks are ubiquitously identified with a set of nodes carefully organized in a space and connected by line links. This happens regardless of the fact that nodes and links are just one of the many ways we have available to represent vertices and edges in networks. In few other areas has the object of study and its visual representation been so deeply intertwined as with network analysis and network visualization, to the point where the difference between the two is often fading away. 
-
-<figure style="width: 150px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/mathieu-jacomy-round.jpg" alt="">
-  <figcaption>Mathieu Jacomy at Backscatter, 2019.</figcaption>
-</figure> 
-
-
-The tutorial is given by Mathieu Jacomy. Mathieu is part of the core Gephi team and initiated the Gephi network analysis software, notably through algorithms like ForceAtlas2. When not working on Gephi, he develops other digital tools for the social sciences and provides support and advice in digital methods to scholars. He investigates how digital knowledge technologies transform our relation to complex phenomena. His current research focuses on visual network analysis and exploration, issue mapping, developing tools for digital methods and reflecting on methodological aspects. 
-
-The tutorial is scheduled for the morning of Thursday October 28, 2021 at ITU.
+The vis21cph and DataViz CPH organizers are teaming up to create an opportunity for conference attendees and members of the meetup group to meet and join a part of the conference together.
 
 ## How to attend
 
-If you would like to attend the tutorial, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for the tutorial. If you already registered, you can still add tutorial attendance.
+If you would like to attend the event, please either register for the satellite conference (link to Eventbrite from the main page) or signup for the meetup group and register for the event there.
 
-# Program
+## 16.30-17.00: Welcome and coffee
 
-The tutorial is scheduled for the morning of Thursday October 28, 2021 at ITU.
+You are welcome to join from 16.30 to have a cup of coffee, say hi to fellow DataViz CPH members, and find a spot in the auditorium for the panel.
 
-## 9.00-12.00: Visual exploration of networks and network data
+This time is also a break for the rest of the virtual conference. Thus, other attendees at the satellite event might also join for coffee here.
 
-Starting from his experience developing the network visualization tool Gephi, Mathieu Jacomy will present the possibilities and the epistemological consequences of visual exploration of network data. 
+**Location:** Atrium, ITU
 
-He will give a few technical landmarks to ensure that everyone has the basics covered, and from there move to more interesting stuff about interpreting visualizations and exploring data. 
+## 17.00-18.30: IEEE VIS 2021 VisInPractice — Panel 2: Tools of the Trade (moderated by Sean McKenna)
 
-Based on participants experience and the turnout, Mathieu Jacomy will slowly move from technical questions to more epistemic questions.
+*From [http://ieeevis.org/year/2021/info/visinpractice](http://ieeevis.org/year/2021/info/visinpractice)*: Today, data visualization practitioners are flooded with a barrage of different tools at their disposal, from libraries (D3) to applications (Tableau, Power BI) to entire platforms (Observable, Jupyter). How do we manage it all? Come explore and discuss this space with industry practitioners and experts that consume with these tools and build new tools on a daily basis. What limitations and trade-offs are there when selecting between different tools for different audiences? How can we promote stronger engagement between researchers and practitioners as we build these tools? What upcoming challenges will we face with the next generation of data vis tools?
 
-*Detailed program to follow. Location: ITU - Room information TBD*
+The panelists include: [Zan Armstrong](https://www.zanarmstrong.com/) (Observable), [Stephanie Kirmer](https://skirmer.github.io/) (Saturn Cloud), [Nicolas Kruchten](http://nicolas.kruchten.com/) (Plotly), and [Krist Wongsuphasawat](https://kristw.yellowpigz.com/) (Airbnb).
+
+**Location:** Auditorium 0, ITU
+
+## 18.30-20.30: Food and drinks, networking, and casual panel attendance
+
+After the panel, we will join for food and drinks, networking, and perhaps stream the third panel more casually from the ScrollBar at ITU.
+
+**Location:** ScrollBar, ITU
 
 # Organizers
 * Kirstin Lyon, freelancer at [visuali.dk](https://visuali.dk) and co-founder of [DataViz CPH](https://www.meetup.com/meetup-group-DseDTisF/)
-* Volodymyr Kupriyuanov, freelance at [volodymyrkupriyanov.com](https://volodymyrkupriyanov.com) and co-founder of [DataViz CPH](https://www.meetup.com/meetup-group-DseDTisF/)
+* Volodymyr Kupriyuanov, freelancer at [volodymyrkupriyanov.com](https://volodymyrkupriyanov.com) and co-founder of [DataViz CPH](https://www.meetup.com/meetup-group-DseDTisF/)
 * Søren Knudsen, IT University of Copenhagen
