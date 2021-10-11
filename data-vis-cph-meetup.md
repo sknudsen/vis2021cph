@@ -3,11 +3,13 @@ title: "VisInPractice streaming co-organized with DataViz CPH"
 layout: single
 permalink: /data-vis-cph-meetup
 ---
-The vis21cph and DataViz CPH organizers are teaming up to create an opportunity for conference attendees and members of the meetup group to meet and join a part of the conference together.
+The vis21cph and [DataViz CPH](https://www.meetup.com/meetup-group-DseDTisF/) organizers are teaming up to create an opportunity for conference attendees and members of the meetup group to meet and join a part of the conference together.
 
-## How to attend
+{% include figure image_path="https://visinpractice.github.io/assets/a-visinpractice_panel2.png" alt="Panel 2: Tools of the Trade" %}
 
-If you would like to attend the event, please either register for the satellite conference (link to Eventbrite from the main page) or signup for the meetup group and register for the event there.
+## How to attend?
+
+If you would like to attend the event, please either register for the satellite conference (link to Eventbrite from the main page) or [signup for the meetup group](https://www.meetup.com/meetup-group-DseDTisF/) and register for the event there.
 
 ## 16.30-17.00: Welcome and coffee
 
