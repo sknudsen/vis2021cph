@@ -67,9 +67,7 @@ feature_row_program:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-  - image_path: assets/images/keynote/joost-grootens.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+  - title: "network-visualization-tutorial"
     excerpt: "..."
     url: "/network-visualization-tutorial"
     btn_label: "Read More"
