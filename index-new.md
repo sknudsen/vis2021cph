@@ -51,7 +51,9 @@ gallerybottom:
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 feature_row_program:
-  - title: "Workshop on eXplainable AI and Data Visualization"
+  - image_path: assets/images/workshops-tutorials/forma-fluens-09_eye_2.jpg
+    alt: "Figure from http://formafluens.io/index.html#third"
+    title: "Workshop on eXplainable AI and Data Visualization"
     excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes and lacking transparency. Providing explanations to allow stakeholders to understand AI has thus become a societal concern. In response, ..."
     url: "/explainable-ai-workshop"
     btn_label: "Read More"
@@ -101,9 +103,9 @@ Please check back shortly for more information about the virtual program viewing
 
 ### The Local Program
 
-In addition to the virtual program, the satellite program will provide several opportunities to attend local events and to interact with other attendees. We expect these to be coordinated with the virtual program and directly preceed it. For example, half-day workshops (12.00-14.35) and full-day workshops (9.00-14.35). The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
+In addition to the virtual program, the satellite program provides several opportunities to attend local events and to interact with other attendees. These are coordinated with the virtual program and directly preceed it. The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
 
-We currently work on the following local events:
+We currently work on the following local events (*cursive* are uncertain):
 
 | Day | Event | Time slot | Room |
 |:--- |:----- |:--------- |:---- |
