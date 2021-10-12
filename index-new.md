@@ -54,7 +54,7 @@ feature_row_program:
   - image_path: assets/images/workshops-tutorials/forma-fluens-09_eye_2.jpg
     alt: "Figure from http://formafluens.io/index.html#third"
     title: "Workshop on eXplainable AI and Data Visualization"
-    excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes and lacking transparency. Providing explanations to allow stakeholders to understand AI has thus become a societal concern. In response, ..."
+    excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes that lack transparency, with increasing societal concerns to follow. In response, ..."
     url: "/explainable-ai-workshop"
     btn_label: "Read More"
     btn_class: "btn--primary"
