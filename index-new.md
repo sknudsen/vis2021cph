@@ -51,9 +51,9 @@ gallerybottom:
     alt: "Photo representing Copenhagen's urban architecture and culture scene"
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 feature_row_program:
-  - image_path: assets/images/workshops-tutorials/forma-fluens-09_eye_2.jpg
-    alt: "Figure from http://formafluens.io/index.html#third"
-    image_caption: "Courtesy of [Forma Fluens creators](http://formafluens.io/index.html#third)"
+  - image_path: assets/images/workshops-tutorials/li-scheidegger.jpg
+    alt: "Figure from Li and Scheidegger" 
+    image_caption: "Courtesy of Li and Scheidegger"
     title: "Workshop on eXplainable AI"
     excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes that lack transparency, with increasing societal concerns to follow. In response, ..."
     url: "/explainable-ai-workshop"
