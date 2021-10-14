@@ -4,6 +4,10 @@ layout: single
 permalink: /design-workshop
 ---
 
+In contrast to the remainder of the conference day, this workshop asks participants to actively engage with hands-on visualization activities. During the morning, we will primarly work from pre-recorded material by Stefanie Posavec, who introduces ideas from the guided journal "Observe! Collect! Draw!", which she co-authored with Giorgia Lupi. After lunch, we will take up ideas from a workshop held Monday evening of the conferene about activities to facilitate learning, reflecting, discussing, and designing visualization.
+
+The format will be informal and focused on doing.
+
 ## How to attend
 
 If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
@@ -14,6 +18,8 @@ If you would like to attend our workshop, please register for the satellite conf
 
 **Time**: 10.00-14.30
 
+**What to bring:** Some paper and and a handful of your preferred drawing materials. I like to use Staedtler Fineliner Triplus 0.3mm.
+
 # Program
 
 The workshop is scheduled for the morning and early afternoon of Tuesday October 26, 2021 at ITU. We organize the workshop in two parts. 
@@ -22,22 +28,35 @@ The workshop is scheduled for the morning and early afternoon of Tuesday October
 
 **10.00-10.10:** Welcome
 
+We briefly welcome workshop participants and provide an overview of the workshop and the organizers. If we're a small group of participants, participants will also get a chance to introduce themselves. 
+
 **10.10-11.50:** Observe! Collect! Draw!
 
-**11.50-12.00:** Conclusion and introduction to second half of program and poll
+The design activity in the first part of the workshop will be based on pre-recorded material by Stefanie Posavec, who introduces ideas from the guided journal "Observe! Collect! Draw!", which she co-authored with Giorgia Lupi. 
+
+The journal suggests "a new way of seeing your world, where the act of data collection offers a space to both reflect on and engage more closely with your life."
+ 
+In the recording, "Stefanie Posavec will guide each of us in mapping a dataset based on our closest connections and personal relationships. The end result will be a highly personal drawing and data visualisation design based on the unique data from our life."
+ 
+**11.50-12.00:** Conclusion and introduction to second half of program
+
+At the end of the first part, we will briefly introduce the second part of the workshop and potentially offer room to reflect on the process and to share our results with each other.
 
 ## 12.00-13.00: _Lunch Break_
 
 ## 13.00-14.30: Design activity from VIS 2021 Workshop on Data Vis Activities
-The [IEEE VIS 2021 Workshop on Data Vis Activities](https://visactivities.github.io/) is happening Monday evening of the conference — the day prior to our design workshop. During this workshop, different authors will present *Visualisation Activities to Facilitate Learning, Reflecting, Discussing, and Designing*. Based on the contributions there, we will create a poll for participants to our design workshop, which will ask participants to prioritise which of the activities they would like to do together. The poll will be introduced before the lunch break, allowing participants to answer during the break. 
-
-The result of the poll will be available when we start the design activity. Thus, this will be a highly improvised activity that will ask everyone to work together to make it happen. I hope this will be a chance to have a bt of fun in an otherwise tightly packed conference week!
-
-In the final half hour of the workshop, we share our thoughts and reflect on the activities we have done together in the workshop. If there is interest to provide feedback to the authors of the second activity (which was presented Monday evening of the conference in the Vis Activities workshop), we organize how we might collaborate over the next weeks on doing so. 
 
 **13.00-14.00:** Design activity based on poll (highly improvised and informal)
 
+The design activity in the second part of the workshop will be based on another workshop — the [Vis Activities workshop](https://visactivities.github.io/) — organized Monday evening at the conference, which is the evening prior to our design workshop. In the Vis Activities workshop, different activities for facilitating learning, reflecting, discussing, and designing are presented. 
+
+Based on the activities contributed at the Vis Activities workshop, we will poll our workshop participants to prioritise which of the activities they would like to do. The poll will be introduced before the lunch break, allowing participants to respond during the break. 
+
+The result of the poll will be available when we start the design activity. Thus, this will be a highly improvised activity that will ask everyone to work together to make it happen. We hope this will be a chance to have a bit of fun in an otherwise tightly packed conference week!
+
 **14.00-14.30:** Sharing and reflection
+
+In the final half hour of the workshop, we share our thoughts and reflect on the activities we have done together in the workshop. If there is interest in collecting and sharing our reflections, we will organize how we might collaborate on doing so over the following weeks. 
 
 # Organizers
 * Søren Knudsen, IT University of Copenhagen
