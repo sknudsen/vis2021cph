@@ -82,6 +82,11 @@ feature_row_inviso:
     alt: "Supporter logo: Inviso by Devoteam"
     title: "Supporters"
     excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation.'
+feature_row_ey:
+  - image_path: /assets/images/sponsors/ey-logo.svg
+    alt: "Supporter logo: EY Denmark"
+    title: "Supporters"
+    excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation.'
 ---
 
 {: .notice style="font-size: 1.0em !important;"}
