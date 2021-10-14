@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Copenhagen IEEE VIS 2021 at ITU"
 layout: splash
-permalink: /index-new
+permalink: /index
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
