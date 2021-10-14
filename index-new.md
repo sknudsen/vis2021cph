@@ -99,6 +99,7 @@ The event will bring together local communities of people from academia and indu
 {% include feature_row id="feature_row_program" %}
 
 {: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_inviso" type="right" %}
+{: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_ey" type="right" %}
 
 ## The Program
 
