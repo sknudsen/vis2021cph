@@ -6,13 +6,11 @@ permalink: /healthcare-data-workshop
 
 Healtcare services increasingly use healthcare data to offer better healthcare services and healthcare data play an important role both on an operational and strategic level. Visual data representations in healthcare too have a long history. For example, the use of visual representations in epidemiology date back at least to the 1850'ies, when Florence Nightingale created the "Rose Diagram" to show that epidemic disease could be controlled by a variety of factors including nutrition, ventilation, and shelter or John Snow plotted the location of deaths from cholera in central London for September 1854 on a map.
 
-Nowadays, access to rich data sets, pervasive displays and visualization and analytics technology has greatly reduced the distance between data and insights. Patient-led analysis is emerging as a new field of inquiry, _two other interesting possibilties on the horizon (maybe something about Precision Medicine?)_. Yet, data access in healthcare is still difficult and questions surrounding topics such as data quality, data interpretability, data provenance, and data comparability are getting more complicated. Healthcare professionals and organizations question how to tap into the promising value of data, in both clinical/operational and in strategic contexts.
+Nowadays, access to rich data sets, pervasive displays and visualization and analytics technology has greatly reduced the distance between data and insights. Healthcare organizations are increasingly looking to data to improve service quality, patient-led analysis is emerging as a new field of inquiry, and precision medicine is touted as the next frontier of patient-focused healthcare. Yet, data access in healthcare is still difficult and questions surrounding topics such as data quality, data interpretability, data provenance, and data comparability are getting more complicated. Healthcare professionals and organizations question how to tap into the promising value of data, in both clinical/operational and in strategic contexts.
 
-<!--
-In Denmark, we have a long history of high-quality healthcare data. Recent developments in the healthcare services organisation, such as "Sundhedsplatformen", have asked clinicians to spend more time on administrative tasks, with limited benefit in return. We are interested in exploring organizational responses to data use and  
- -->
+In Denmark, we have a long history of high-quality healthcare data. Recent developments in the healthcare services organisation, such as "Sundhedsplatformen" (a tailored version of Epic EMR), have asked clinicians to spend more time on administrative tasks, with limited benefit in return. We are interested in exploring healthcare organizational responses to data use and how the collected data might be used as the foundation for discussions.
  
-With this backdrop, we invite participants in our workshop to share their perspectives on Healthcare Data and Visual Representations of Data.
+In this context, we invite participants in our workshop to share their perspectives on Healthcare Data and Visual Representations of Data.
 
 ## How to attend
 
