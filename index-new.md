@@ -78,13 +78,8 @@ feature_row_program:
     btn_class: "btn--primary"
 
 feature_row_inviso:
-  - image_path: /assets/images/sponsors/inviso-by-devoteam_logo_rgb.png
-    alt: "Supporter logo: Inviso by Devoteam"
-    title: "Supporters"
-    excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation.'
-feature_row_ey:
-  - image_path: /assets/images/sponsors/ey-logo.svg
-    alt: "Supporter logo: EY Denmark"
+  - image_path: /assets/images/sponsors/supporters.svg
+    alt: "Supporter logos: Inviso by Devoteam and EY Denmark"
     title: "Supporters"
     excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation.'
 ---
