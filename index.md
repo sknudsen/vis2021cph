@@ -112,7 +112,7 @@ We currently work on the following local events (*cursive* are uncertain):
 
 | Day | Event | Time slot | Room |
 |:--- |:----- |:--------- |:---- |
-| Monday | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph.) | 16.30-20.30 | _TBD_ |
+| Monday | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | 16.30-20.30 | Aud 0/ScrollBar |
 | Tuesday | Design workshop | 10.00-14.30 (lunch break 12.00-13.00) | _TBD_ |
 | Wednesday <br> &nbsp; <br> &nbsp;| [eXplainable AI Workshop](./explainable-ai-workshop) <br> [Local Keynote](./keynote) <br> _Poster session_ | 9.00-12.00 <br> 14.00-14.55 <br> _18.30-19.30_ <br> | _TBD_ <br> Aud 1 (0A11) <br> _TBD_ |
 | Thursday <br> &nbsp; | [Network Visualization Tutorial](./network-visualization-tutorial) <br> [Network Visualization Workshop](./network-visualization-workshop) | 9.00-12.00 <br> 13.00-14.30 | _TBD_ <br> _TBD_ |
