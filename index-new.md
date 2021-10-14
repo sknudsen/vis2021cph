@@ -77,7 +77,7 @@ feature_row_program:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row_inviso:
+feature_row_supporters:
   - image_path: /assets/images/sponsors/supporters.svg
     alt: "Supporter logos: Inviso by Devoteam and EY Denmark"
     title: "Supporters"
@@ -93,8 +93,8 @@ The event will bring together local communities of people from academia and indu
 
 {% include feature_row id="feature_row_program" %}
 
-{: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_inviso" type="right" %}
-{: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_ey" type="right" %}
+{: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_supporters" type="right" %}
+
 
 ## The Program
 
