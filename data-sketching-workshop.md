@@ -1,7 +1,7 @@
 ---
-title: "Data Visualization Design Workshop"
+title: "Data Sketching Workshop"
 layout: single
-permalink: /design-workshop
+permalink: /data-sketching-workshop
 ---
 
 In contrast to the remainder of the conference day, this workshop asks participants to actively engage with hands-on visualization activities. During the morning, we will primarly work from pre-recorded material by Stefanie Posavec, who introduces ideas from the guided journal "Observe! Collect! Draw!", which she co-authored with Giorgia Lupi. After lunch, we will take up ideas from a workshop held Monday evening of the conferene about activities to facilitate learning, reflecting, discussing, and designing visualization.
@@ -18,7 +18,7 @@ If you would like to attend our workshop, please register for the satellite conf
 
 **Time**: 10.00-14.30
 
-**What to bring:** Some paper and and a handful of your preferred drawing materials. I like to use Staedtler Fineliner Triplus 0.3mm.
+**What to bring:** Some paper and and a handful of your preferred drawing materials. I like to use Staedtler Fineliner Triplus 0.3mm. Don't worry if you can't bring any materials. We will make sure to have backup materials.
 
 # Program
 
