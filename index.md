@@ -162,6 +162,6 @@ If you want to help organize part of the satellite event, please contact us dire
 
 ---
 
-More information soon. For inquiries, contact local chair, Søren Knudsen at [soekn@itu.dk](mailto:soekn@itu.dk?subject=IEEEVIS%202021%20Copenhagen%20Satellite%20event%20at%20ITU)
+More information soon. For inquiries, contact the organizers at [vis21cph-org@o365team.itu.dk](mailto:vis21cph-org@o365team.itu.dk)
 
 {% include gallery id="gallerybottom" caption="Enjoy Copenhagen's urban scene on foot or on bike." %}
