@@ -48,7 +48,7 @@ At the end of the first part, we will briefly introduce the second part of the w
 
 **13.00-14.00:** Design activity based on poll (highly improvised and informal)
 
-The design activity in the second part of the workshop will be based on another workshop — the [Vis Activities workshop](https://visactivities.github.io/) — organized Monday evening at the conference, which is the evening prior to our design workshop. In the Vis Activities workshop, different activities for facilitating learning, reflecting, discussing, and designing are presented. 
+The design activity in the second part of the workshop will be based on another workshop — the [Vis Activities workshop](https://visactivities.github.io/) — organized Monday evening at the conference, which is the evening prior to our data sketching workshop. In the Vis Activities workshop, different activities for facilitating learning, reflecting, discussing, and designing are presented. 
 
 Based on the activities contributed at the Vis Activities workshop, we will poll our workshop participants to prioritise which of the activities they would like to do. The poll will be introduced before the lunch break, allowing participants to respond during the break. 
 
