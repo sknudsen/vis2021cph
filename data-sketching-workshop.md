@@ -12,7 +12,7 @@ The format will be informal and focused on doing.
 
 If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
 
-**Location**: ITU, _room tbd_
+**Location**: 3A20, ITU
 
 **Date**: Tuesday October 26, 2021
 
