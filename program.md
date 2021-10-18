@@ -33,4 +33,4 @@ classes: wide
 | 18.30-19.00 | 11.30-12.00  | Dinner  |                                                              |                                                              |                                                     |                                                              |                                                              |                                                            |                                                              |
 | 19.00-20.30 | 12.00-13.30  |         | [VIS Full Papers: Recommendation and Automation](https://virtual.ieeevis.org/year/2021/session_v-full-full5.html) | VIS Full Papers: Immersive Environments, Personal Vis, and Dashboards | VIS Full Papers: Multi-Dimensional Data             | VIS CG&amp;A Presentations: Visualizing big issues: Culture, Climate Change, and Communities | Application Spotlights: In Situ Inference: Advanced Data Science for Space Weather Modeling | VIS Arts Program: VISAP Session 1                          | VizSec: Threat Detection, Computer Forensics &amp; Software Vulnerability Analysis |
 -->
-fdsfsfd
+sss
