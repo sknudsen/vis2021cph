@@ -12,6 +12,12 @@ In this workshop, we invite participants to share their perspectives on XAI and 
 
 If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
 
+**Location**: ScrollBar, ITU
+
+**Date**: Wednesday October 27, 2021
+
+**Time**: 9.00-12.00
+
 # Program
 
 The workshop is scheduled for the morning of Wednesday October 27, 2021 at ITU. We organize the workshop in two parts. 
@@ -27,12 +33,6 @@ _We will post the participant list and slides here as they are shared with us_
 ## 10.20-12.00: Group discussions
 
 In the second part, we group up acccording to themes emerging from the introductions, in terms of interests and perspectives. Themes can be anything from shared interest in a specific aspect of XAI, formulating concrete research questions, or potential collaborations around this topic. Workshop participants discuss individual themes in groups and reconvene at 11.30 to share group discussions with the other workshop participants.
-
-**Location**: ITU, _room tbd_
-
-**Date**: Wednesday October 27, 2021
-
-**Time**: 9.00-12.00
 
 # Organizers
 * Søren Knudsen, IT University of Copenhagen
