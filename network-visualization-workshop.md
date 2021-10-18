@@ -11,6 +11,12 @@ The vis21cph workshop on network visualization will explore the possibilities, o
 
 If you would like to attend our workshop, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for our workshop. If you already registered, you can still add workshop attendance.
 
+**Location**: ScrollBar, ITU
+
+**Date**: Thursday October 28, 2021
+
+**Time**: 13.00-14.30
+
 # Program
 
 The workshop is scheduled for the early afternoon of Thursday October 28, 2021 at ITU. We organize the Network Visualization Workshop in two parts. 
