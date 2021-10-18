@@ -4,6 +4,19 @@ layout: single
 classes: wide
 ---
 
+## Wednesday
+| Time (CEST) 	| Time virtual 	| Atrium        | Aud 1 (0A11) | Room 2 	| Room 3 	| Room 4 	| Room 5 	| Room 6 	| Room 7 	|
+|-------------	|--------------	|-------------	|--------	     |--------	|--------	|--------	|--------	|--------	|--------	|
+| 9.00-12.00  	|              	|             	|        	     |        	|        	|        	|        	|        	|        	|
+| 12.00-13.00 	|              	| Lunch       	|        	     |        	|        	|        	|        	|        	|        	|
+| 13.00-14.00 	|              	| Program break	|        	     |        	|        	|        	|        	|        	|        	|
+| 14.00-14.55 	|              	|             	| Keynote      |        	|        	|        	|        	|        	|        	|
+| 14.55-15.00 	|              	| Coffee       	|        	     |        	|        	|        	|        	|        	|        	|
+| 15.00-16.30 	| 8.00-9.30    	|             	| [VIS Full Papers: Explainable AI and Machine Learning](https://virtual.ieeevis.org/year/2021/session_v-full-full20.html)       	     |        	|        	|        	|        	|        	|        	|
+| 16.30-17.00 	| 9.30-10.00   	| Coffee       	|       	     |        	|        	|        	|        	|        	|        	|
+| 17.00-18.30 	| 10.00-11.30  	|             	| [VIS Full Papers: Perspectives and Reflections](https://virtual.ieeevis.org/year/2021/session_v-full-full13.html)        	     |        	|        	|        	|        	|        	|        	|
+| 18.30-19.00 	| 11.30-12.00  	| Dinner      	|              |        	|        	|        	|        	|        	|        	|
+| 19.00-20.30 	| 12.00-13.30  	|             	| [VIS Full Papers: Recommendation and Automation](https://virtual.ieeevis.org/year/2021/session_v-full-full5.html)       	     |        	|        	|        	|        	|        	|        	|
 
 
 ## Wednesday
