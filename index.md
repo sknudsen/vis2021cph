@@ -120,7 +120,7 @@ We currently work on the following local events (*cursive* are uncertain):
 
 We highly welcome time-shifted presentations of VIS conference talks.
 
-Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us.
+<---!Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us.--->
 
 In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
 
