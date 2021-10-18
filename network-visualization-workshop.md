@@ -38,8 +38,6 @@ We are happy to be joined by a set of awesome panel members:
 * Matteo Magnani, Uppsala University
 * Michele Coscia, IT University of Copenhagen
 
-*Location: ITU - Room information TBD*
-
 # Organizers
 * Luca Rossi, IT University of Copenhagen [lucr@itu.dk](mailto:lucr@itu.dk)
 * Søren Knudsen, IT University of Copenhagen [soekn@itu.dk](mailto:soekn@itu.dk)
