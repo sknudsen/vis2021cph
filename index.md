@@ -118,11 +118,11 @@ We currently work on the following local events (*cursive* are uncertain):
 | Thursday <br> &nbsp; | [Network Visualization Tutorial](./network-visualization-tutorial) <br> [Network Visualization Workshop](./network-visualization-workshop) | 9.00-12.00 <br> 13.00-14.30 | ScrollBar, ITU <br> ScrollBar, ITU |
 | Friday | [Healthcare Data Workshop](./healthcare-data-workshop) | 10.00-14.30 (lunch break 12.00-13.00) | 3A20, ITU |
 
-We highly welcome time-shifted presentations of VIS conference talks.
+<!-- We highly welcome time-shifted presentations of VIS conference talks.
 
-<---!Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us.--->
+Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us. -->
 
-In the meantime, check the virtual program at [IEEE VIS](http://ieeevis.org/).
+Make sure to also check out the virtual program at [IEEE VIS](http://ieeevis.org/). We will add details about room allocation for the virtual tracks at the conference over the next days.
 
 # Attending
 
