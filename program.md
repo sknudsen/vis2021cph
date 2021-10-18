@@ -1,8 +1,7 @@
 ---
-title: "Workshop on eXplainable AI and Data Visualization"
+title: "Program"
 layout: single
 classes: wide
-permalink: /explainable-ai-workshop
 ---
 
 | Time (CEST) 	| Time virtual 	| Atrium        |Room 1  	| Room 2 	| Room 3 	| Room 4 	| Room 5 	| Room 6 	| Room 7 	|
