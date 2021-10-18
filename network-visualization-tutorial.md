@@ -36,8 +36,6 @@ He will give a few technical landmarks to ensure that everyone has the basics co
 
 Based on participants experience and the turnout, Mathieu Jacomy will slowly move from technical questions to more epistemic questions.
 
-*Detailed program to follow. Location: ITU - Room information TBD*
-
 # Organizers
 * Luca Rossi, IT University of Copenhagen
 * Søren Knudsen, IT University of Copenhagen
