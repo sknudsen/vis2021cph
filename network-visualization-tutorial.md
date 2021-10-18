@@ -10,7 +10,6 @@ Networks are ubiquitously identified with a set of nodes carefully organized in 
   <figcaption>Mathieu Jacomy at Backscatter, 2019.</figcaption>
 </figure>
 
-
 The tutorial is given by Mathieu Jacomy. Mathieu is part of the core Gephi team and initiated the Gephi network analysis software, notably through algorithms like ForceAtlas2. When not working on Gephi, he develops other digital tools for the social sciences and provides support and advice in digital methods to scholars. He investigates how digital knowledge technologies transform our relation to complex phenomena. His current research focuses on visual network analysis and exploration, issue mapping, developing tools for digital methods and reflecting on methodological aspects.
 
 The tutorial is scheduled for the morning of Thursday October 28, 2021 at ITU.
@@ -18,6 +17,12 @@ The tutorial is scheduled for the morning of Thursday October 28, 2021 at ITU.
 ## How to attend
 
 If you would like to attend the tutorial, please register for the satellite conference (link to Eventbrite from the main page). During registration, you will get the chance to add a ticket for the tutorial. If you already registered, you can still add tutorial attendance.
+
+**Location**: ScrollBar, ITU
+
+**Date**: Thursday October 28, 2021
+
+**Time**: 9.00-12.00
 
 # Program
 
