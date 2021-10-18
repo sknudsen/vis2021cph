@@ -116,7 +116,7 @@ We currently work on the following local events (*cursive* are uncertain):
 | Tuesday | [Data Sketching Workshop](./data-sketching-workshop) | 10.00-14.30 (lunch break 12.00-13.00) | 3A20, ITU |
 | Wednesday <br> &nbsp; <br> &nbsp;| [eXplainable AI Workshop](./explainable-ai-workshop) <br> [Local Keynote](./keynote) <br> _Poster session_ | 9.00-12.00 <br> 14.00-14.55 <br> _18.30-19.30_ <br> | ScrollBar, ITU <br> Aud 1 (0A11) <br> _TBD_ |
 | Thursday <br> &nbsp; | [Network Visualization Tutorial](./network-visualization-tutorial) <br> [Network Visualization Workshop](./network-visualization-workshop) | 9.00-12.00 <br> 13.00-14.30 | ScrollBar, ITU <br> ScrollBar, ITU |
-| Friday | [Healthcare Data Workshop](./healthcare-data-workshop) | 10.00-14.30 (lunch break 12.00-13.00) | _TBD_ |
+| Friday | [Healthcare Data Workshop](./healthcare-data-workshop) | 10.00-14.30 (lunch break 12.00-13.00) | 3A20, ITU |
 
 We highly welcome time-shifted presentations of VIS conference talks.
 
