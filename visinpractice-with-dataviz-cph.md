@@ -25,7 +25,7 @@ This time is also a break for the rest of the virtual conference. Thus, other at
 
 The panelists include: [Zan Armstrong](https://www.zanarmstrong.com/) (Observable), [Stephanie Kirmer](https://skirmer.github.io/) (Saturn Cloud), [Nicolas Kruchten](http://nicolas.kruchten.com/) (Plotly), and [Krist Wongsuphasawat](https://kristw.yellowpigz.com/) (Airbnb).
 
-**Location:** Auditorium 0, ITU
+**Location:** Auditorium 1, ITU
 
 ## 18.30-20.30: Food and drinks, networking, and casual panel attendance
 
