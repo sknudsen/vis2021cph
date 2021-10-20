@@ -52,7 +52,7 @@ gallerybottom:
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 feature_row_program:
   - image_path: assets/images/workshops-tutorials/li-scheidegger.jpg
-    alt: "Figure from Li and Scheidegger" 
+    alt: "Figure from Li and Scheidegger"
     image_caption: "Courtesy of Li and Scheidegger"
     title: "Workshop on eXplainable AI"
     excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes that lack transparency, with increasing societal concerns to follow. In response, ..."
@@ -96,33 +96,55 @@ The event will bring together local communities of people from academia and indu
 {: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_supporters" type="right" %}
 
 
-## The Program
-
-The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.20 local time (CEST).
+## The Local and Virtual Program
 
 We provide a fully catered event with free registration.
 
+The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.30 local time (CEST).
+In addition to the virtual program, the satellite program provides several opportunities to attend local events and to interact with other attendees. These are coordinated with the virtual program and directly precede it. The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunities for exciting visualization work.
+
+Make sure to also check out the virtual program at [IEEE VIS](http://ieeevis.org/). We will add details about room allocation for the virtual tracks at the conference over the next days.
+
 Please check back shortly for more information about the virtual program viewing options at our event.
 
-### The Local Program
+| Day       | M | Time slot   | Event                                                                          | Room                 |
+|:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
+| Sunday    | V | 15.00-22.30 | VIS Parallel Sessions                                                          |                      |
+|:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
+| Monday    | L | 16.30-20.30 | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | Aud 1/ScrollBar, ITU |
+|           |   |             |                                                                                |                      |
+| Monday    | V | 15.00-22.30 | VIS Parallel Sessions                                                          |                      |
+|:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
+| Tuesday   | L | 10.00-12.00 | [Data Sketching Workshop](./data-sketching-workshop)                           | 3A20, ITU            |
+|           |   | 12.00-13.00 | Lunch break (lunch served for workshop attendees)                              | *tbd*, ITU           |
+|           |   | 13.00-14.30 | [Data Sketching Workshop](./data-sketching-workshop)                           | 3A20, ITU            |
+|           |   |             |                                                                                |                      |
+| Tuesday   | V | 15.00-20.30 | VIS Parallel Sessions                                                          |                      |
+|:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
+| Wednesday | L |  9.00-12.00 | [eXplainable AI Workshop](./explainable-ai-workshop)                           |  ScrollBar, ITU      |
+|           |   | 12.00-13.00 | Lunch break (lunch served for workshop attendees)                              | *tbd*, ITU           |
+|           |   | 14.00-14.55 | [Keynote by Joost Grootens](./keynote)                                         |  Aud 1 (0A11)        |
+|           |   |             |                                                                                |                      |
+| Wednesday | V | 15.00-20.30 | VIS Parallel Sessions                                                          |                      |
+|:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
+| Thursday  | L |  9.00-12.00 | [Network Visualization Tutorial](./network-visualization-tutorial)             | ScrollBar, ITU       |
+|           |   | 12.00-13.00 | Lunch break (lunch served for workshop attendees)                              | *tbd*, ITU           |
+|           |   | 13.00-14.30 | [Network Visualization Workshop](./network-visualization-workshop)             | ScrollBar, ITU       |
+|           |   |             |                                                                                |                      |
+| Thursday  | V | 15.00-20.30 | VIS Parallel Sessions                                                          |                      |
+|:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
+| Friday    | L | 10.00-12.00 | [Healthcare Data Workshop](./healthcare-data-workshop)                         | 3A20, ITU            |
+|           |   | 12.00-13.00 | Lunch break (lunch served for workshop attendees)                              | *tbd*, ITU           |
+|           |   | 13.00-14.30 | [Healthcare Data Workshop](./healthcare-data-workshop)                         | 3A20, ITU            |
+|           |   |             |                                                                                |                      |
+|           | V | 15.00-20.30 | VIS Parallel Sessions                                                          |                      |
 
-In addition to the virtual program, the satellite program provides several opportunities to attend local events and to interact with other attendees. These are coordinated with the virtual program and directly preceed it. The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunies for exciting visualization work.
-
-We currently work on the following local events (*cursive* are uncertain):
-
-| Day | Event | Time slot | Room |
-|:--- |:----- |:--------- |:---- |
-| Monday | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | 16.30-20.30 | Aud 1/ScrollBar, ITU |
-| Tuesday | [Data Sketching Workshop](./data-sketching-workshop) | 10.00-14.30 (lunch break 12.00-13.00) | 3A20, ITU |
-| Wednesday <br> &nbsp; <!--<br> &nbsp;-->| [eXplainable AI Workshop](./explainable-ai-workshop) <br> [Local Keynote](./keynote) <!--<br> _Poster session_--> | 9.00-12.00 <br> 14.00-14.55 <!--<br> _18.30-19.30_--> | ScrollBar, ITU <br> Aud 1 (0A11) <!--<br> _TBD_--> |
-| Thursday <br> &nbsp; | [Network Visualization Tutorial](./network-visualization-tutorial) <br> [Network Visualization Workshop](./network-visualization-workshop) | 9.00-12.00 <br> 13.00-14.30 | ScrollBar, ITU <br> ScrollBar, ITU |
-| Friday | [Healthcare Data Workshop](./healthcare-data-workshop) | 10.00-14.30 (lunch break 12.00-13.00) | 3A20, ITU |
-
+*[M]: Mode
+*[L]: Local
+*[V]: Virtual
 <!-- We highly welcome time-shifted presentations of VIS conference talks.
 
 Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us. -->
-
-Make sure to also check out the virtual program at [IEEE VIS](http://ieeevis.org/). We will add details about room allocation for the virtual tracks at the conference over the next days.
 
 # Attending
 
