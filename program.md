@@ -101,7 +101,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             |    | 3     | — *Not streaming*                                                              |                      |
 |           |   |             | F  | 4     | — Graphical Perception and Coloring                                            | 3A08                 |
 |           |   |             | S  | 5     | — Social Sciences, Software Tools, Journalism, and Storytelling                | 4A09                 |
-|           |   |             | P  | 6     | — Wait...when did we sign up to be economists?                                 | 5A10                 |
+|           |   |             | P  | 6     | — Wait...when did we sign up to be economists?                                 | 2A05                 |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |
 |           |   |             | F  | 1     | — Perspectives and Reflections                                                 | Aud 1                |
@@ -109,7 +109,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Multi-View and Visual Environments                                           | 4A05                 |
 |           |   |             | C  | 4     | — Data Physicalization                                                         | 3A08                 |
 |           |   |             | S  | 5     | — AI+VIS                                                                       | 4A09                 |
-|           |   |             | P  | 6     | — What is the Role of VIS in Combating COVID-19?                               | 5A10                 |
+|           |   |             | P  | 6     | — What is the Role of VIS in Combating COVID-19?                               | 2A05                 |
 |           |   | 18.30-19.00 |    |       | Dinner                                                                         |                      |
 |           |   | 19.00-20.30 |    |       | VIS Parallel Sessions                                                          |                      |
 |           |   |             | F  | 1     | — Recommendation and Automation                                                | Aud 1                |
@@ -117,7 +117,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Multi-Dimensional Data                                                       | 4A05                 |
 |           |   |             | C  | 4     | — Visualizing big issues: Culture, Climate Change, and Communities             | 3A08                 |
 |           |   |             |    | 5     | — *Not streaming*                                                              |                      |
-|           |   |             | Pa | 6     | — VISAP Session 1                                                              | 5A10                 |
+|           |   |             | Pa | 6     | — VISAP Session 1                                                              | 2A05                 |
 |:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |
 | Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 |
 |:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |
@@ -132,7 +132,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Accessible Visualization and Natural Language                                | 4A05                 |
 |           |   |             |    | 4     | — *Not streaming*                                                              |                      |
 |           |   |             | A  | 5     | — Bridging Visualization with Radiation Oncology                               | 4A09                 |
-|           |   |             | P  | 6     | — Our History and Future Innovation                                            | 5A10                 |
+|           |   |             | P  | 6     | — Our History and Future Innovation                                            | 2A05                 |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |
 |           |   |             | F  | 1     | — Grammar and Learning                                                         | Aud 3                |
@@ -140,7 +140,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Scalability and Rendering                                                    | 4A05                 |
 |           |   |             | S  | 4     | — Graphs, Charts, and Perception                                               | 4A09                 |
 |           |   |             |    | 5     | — *Not streaming*                                                              |                      |
-|           |   |             | P  | 6     | — Towards Accessible Data Representations                                      | 5A10                 |
+|           |   |             | P  | 6     | — Towards Accessible Data Representations                                      | 2A05                 |
 |           |   | 18.30-19.00 |    |       | Dinner                                                                         |                      |
 |           |   | 19.00-20.30 |    |       | VIS Parallel Sessions                                                          |                      |
 |           |   |             | F  | 1     | — Time Series and Events                                                       | Aud 3                |
@@ -148,7 +148,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Mitigating Bias                                                              | 4A05                 |
 |           |   |             | S  | 4     | — Applications                                                                 | 4A09                 |
 |           |   |             |    | 5     | — *Not streaming*                                                              |                      |
-|           |   |             | Pa | 6     | — VISAP Session 2                                                              | 5A10                 |
+|           |   |             | Pa | 6     | — VISAP Session 2                                                              | 2A05                 |
 |:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |
 | Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 |
 |:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |
@@ -163,7 +163,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Uncertainty                                                                  | 4A05                 |
 |           |   |             |    | 4     | — *Not streaming*                                                              |                      |
 |           |   |             | A  | 5     | — Uncertainty-aware visual analytics in applications - Towards a ...| 4A09     |
-|           |   |             | P  | 6     | — Visualization Literacy for General Audiences - Can We Make A Difference?     | 5A10                 |
+|           |   |             | P  | 6     | — Visualization Literacy for General Audiences - Can We Make A Difference?     | 2A05                 |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |
 |           |   |             | F  | 1     | — Model Evaluation                                                             | Aud 3                |
@@ -171,7 +171,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Efficient Representation and Layout                                          | 4A05                 |
 |           |   |             |    | 4     | — *Not streaming*                                                              |                      |
 |           |   |             | A  | 5     | — Visualization Challenges in Deep Uncertainty                                 | 4A09                 |
-|           |   |             | P  | 6     | — Navigating Interdisciplinary Careers in Visualization                        | 5A10                 |
+|           |   |             | P  | 6     | — Navigating Interdisciplinary Careers in Visualization                        | 2A05                 |
 |           |   | 18.30-19.00 |    |       | Dinner                                                                         |                      |
 |           |   | 19.00-20.00 |    |       | VIS Capstone                                                                   | Aud 3                |
 |           |   | 20.00-20.30 |    |       | VIS Closing                                                                    | Aud 3                |
