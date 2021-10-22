@@ -52,6 +52,12 @@ gallerybottom:
     title: "Credits: Thomas Høyrup Christensen/Copenhagen Media Center."
 ---
 
+## Registration
+
+Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk). Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
+
+## Attend
+
 The satellite event takes place in beatiful Copenhagen, which offers a vibrant restaurant and bar scene and great cultural expriences, for example, at the city's many museums or simply when walking among the many historic buildings — the city is known for being very walkable.
 
 {% include gallery id="galleryfood" caption="Enjoy the vibrant restaurant and bar scene in Copenhagen." %}
@@ -67,10 +73,6 @@ We have several hotels within walking distance to the satellite venue:
 * [Bryggen Guldsmeden](https://guldsmedenhotels.com/bryggen/)
 
 Many more are still within easy reach of the satellite venue by walking, biking, or via metro.
-
-### Registration
-
-Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk). Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
 
 ---
 
