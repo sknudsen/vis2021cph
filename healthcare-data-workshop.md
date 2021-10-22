@@ -40,14 +40,14 @@ _We will post the participant list and slides here as they are shared with us_
 
 In the second part, we group up acccording to themes emerging from the introductions, in terms of interests and perspectives. Themes can be anything from shared interest in a specific aspect of healthcare data, formulating concrete research questions, or potential collaborations around this topic. Workshop participants work on the individual themes in groups.
 
-**Location**: 3A20/3A05/4A05/5A10, ITU
+**Location**: 3A20/3A05, ITU
 
 ## 12.00-13.00: _Lunch Break_
 
 ## 13.00-14.00: Group discussions and summary
 We continue our work in groups in the the third part of the workshop. In the last 15 minutes, we summarise our discussions and prepare to share them with the workshop participants.
 
-**Location**: 3A20/3A05/4A05/5A10, ITU
+**Location**: 3A20/3A05, ITU
 
 ## 13.00-14.00: Group discussions and summary
 We reconvene at 14.00 to share the results of the group work and discussions with the other workshop participants.
