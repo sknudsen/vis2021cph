@@ -55,7 +55,7 @@ feature_row_program:
     alt: "Figure from Li and Scheidegger"
     image_caption: "Courtesy of Li and Scheidegger"
     title: "Workshop on eXplainable AI"
-    excerpt: "Articificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes that lack transparency, with increasing societal concerns to follow. In response, ..."
+    excerpt: "Artificial Intelligence (AI) is increasingly used to support decision-making or for automation. However, the technologies involved are often experienced as black boxes that lack transparency, with increasing societal concerns to follow. In response, ..."
     url: "/explainable-ai-workshop"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -63,7 +63,7 @@ feature_row_program:
   - image_path: assets/images/keynote/joost-grootens.jpg
     alt: "Photo of keynote speaker Joost Grootens"
     title: "Keynote by Joost Grootens"
-    excerpt: "Joost Grootens is an award-winning graphic designer, educator and researcher. Grootens work primarily with data represenation in book form. In his work, he explores typologies such as catalogues, indexes, and atlasses..."
+    excerpt: "Joost Grootens is an award-winning graphic designer, educator, and researcher. Grootens work primarily with data representation in book form. In his work, he explores typologies such as catalogues, indexes, and atlases..."
     url: "/keynote"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -99,9 +99,9 @@ The event will bring together local communities of people from academia and indu
 
 The satellite program provides options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.30 local time (CEST).
 
-In addition to the virtual program, the satellite program provides several opportunities to attend local events and to interact with other attendees. These are coordinated with the virtual program and directly precede it. The local events aims to build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunities for exciting visualization work.
+In addition to the virtual program, the satellite program provides several opportunities to attend local events and to interact with other attendees. These are coordinated with the virtual program and directly precede it. The local events aim to build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunities for exciting visualization work.
 
-We provide a highlevel overview below. For details and room allocation for the virtual tracks, please refer to [our program](./program). Make sure to also check out the virtual program at [IEEE VIS](http://ieeevis.org/). 
+We provide a high-level overview below. For details and room allocation for the virtual tracks, please refer to [our program](./program). Make sure to also check out the virtual program at [IEEE VIS](http://ieeevis.org/). 
 
 | Day       | M | Time slot   | Event                                                                          | Room                 |
 |:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
