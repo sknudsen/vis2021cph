@@ -95,7 +95,6 @@ The event will bring together local communities of people from academia and indu
 
 {: .notice style="font-size: 1.0em !important;"}{% include feature_row id="feature_row_supporters" type="right" %}
 
-
 ## The Local and Virtual Program
 
 We provide a fully catered event with free registration.
@@ -146,27 +145,6 @@ Please check back shortly for more information about the virtual program viewing
 
 Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us. -->
 
-# Attending
-
-The satellite event takes place in beatiful Copenhagen, which offers a vibrant restaurant and bar scene and great cultural expriences, for example, at the city's many museums or simply when walking among the many historic buildings — the city is known for being very walkable.
-
-{% include gallery id="galleryfood" caption="Enjoy the vibrant restaurant and bar scene in Copenhagen." %}
-
-ITU is located next to the 800-meter Emil Holms Kanal in the northeastern part of Ørestad between Copenhagen and DR Byen – home of the National Danish Broadcast Service (Danmarks Radio).
-
-### Travels and accomodation
-
-We have several hotels within walking distance to the satellite venue:
-
-* [Zoku Copenhagen](https://livezoku.com/copenhagen/)
-* [Radisson Blu Copenhagen](https://www.radissonhotels.com/en-us/hotels/radisson-blu-copenhagen-scandinavia)
-* [Bryggen Guldsmeden](https://guldsmedenhotels.com/bryggen/)
-
-Many more are still within easy reach of the satellite venue by walking, biking, or via metro.
-
-### Registration
-
-Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk). Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
 
 ## Local Organization Committee
 
