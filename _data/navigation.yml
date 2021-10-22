@@ -1,7 +1,7 @@
 main:
-  - title: "Program"
-    url: /program
   - title: "Attend"
     url: /attend
+  - title: "Program"
+    url: /program
   - title: "Organization"
     url: /organization
