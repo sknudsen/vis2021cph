@@ -157,6 +157,5 @@ Please check back later for more details about our local program. If you would l
 
 ---
 
-More information soon. For inquiries, contact the organizers at [vis21cph-org@o365team.itu.dk](mailto:vis21cph-org@o365team.itu.dk)
+For inquiries, contact the organizers at [vis21cph-org@o365team.itu.dk](mailto:vis21cph-org@o365team.itu.dk)
 
-{% include gallery id="gallerybottom" caption="Enjoy Copenhagen's urban scene on foot or on bike." %}
