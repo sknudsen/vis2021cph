@@ -11,7 +11,7 @@ header:
 #      url: "https://forms.office.com/r/vq2L0ax4YK"
     - label: "Register for the event"
       url: "https://vis21cph.eventbrite.dk"
-excerpt: "The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen from Oct. 24-29"
+excerpt: "The IT University of Copenhagen organizes an IEEE VIS 2021 satellite event in Copenhagen from Oct. 24-29"
 galleryfood:
   - url: /assets/images/copenhagen/gallery-10.jpg
     image_path: /assets/images/copenhagen/gallery-10.jpg
