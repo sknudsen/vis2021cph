@@ -44,12 +44,12 @@ In the second part, we group up acccording to themes emerging from the introduct
 
 ## 12.00-13.00: _Lunch Break_
 
-## 13.00-14.00: Group discussions and summary
+## 13.00-14.00: Group discussions (continued)
 We continue our work in groups in the the third part of the workshop. In the last 15 minutes, we summarise our discussions and prepare to share them with the workshop participants.
 
 **Location**: 3A20/3A05, ITU
 
-## 13.00-14.00: Group discussions and summary
+## 14.00-14.30: Sharing from groups and Closing notes
 We reconvene at 14.00 to share the results of the group work and discussions with the other workshop participants.
 
 **Location**: 3A20, ITU
