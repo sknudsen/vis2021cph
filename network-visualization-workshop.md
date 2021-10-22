@@ -23,9 +23,9 @@ The workshop is scheduled for the early afternoon of Thursday October 28, 2021 a
 
 ## 13.00-13.45: Introduction by participants
 
-In the first part of the workshop, participants briefly introduce themselves, their work in relation to network visualization, and their motivation for participating in the workshop (up to three minutes per participant) . 
+In the first part of the workshop, participants briefly introduce themselves, their work in relation to network visualization, and their motivation for participating in the workshop (up to three minutes per participant). 
 
-Slides are optional, but need to be shared with the organisers as pdf 24 hours prior to the workshop (contact information below). 
+Slides are optional but need to be shared with the organisers as pdf 24 hours prior to the workshop (contact information below). 
 
 _We will post the participant list and slides here as they are shared with us_
 
