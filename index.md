@@ -9,7 +9,7 @@ header:
   actions:
 #    - label: "Sign up to receive updates"
 #      url: "https://forms.office.com/r/vq2L0ax4YK"
-    - label: "Register for the event"
+    - label: "Register for the event (free)"
       url: "https://vis21cph.eventbrite.dk"
 # excerpt: "The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen from Oct. 24-29"
 galleryfood:
@@ -97,14 +97,11 @@ The event will bring together local communities of people from academia and indu
 
 ## The Local and Virtual Program
 
-We provide a fully catered event with free registration.
+The satellite program provides options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.30 local time (CEST).
 
-The satellite program will provide options for viewing the virtual IEEE VIS 2021 Program, 15.00-20.30 local time (CEST).
-In addition to the virtual program, the satellite program provides several opportunities to attend local events and to interact with other attendees. These are coordinated with the virtual program and directly precede it. The local events will build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunities for exciting visualization work.
+In addition to the virtual program, the satellite program provides several opportunities to attend local events and to interact with other attendees. These are coordinated with the virtual program and directly precede it. The local events aims to build connections between local communities that share an interest in visualization and highlight the work going on in the greater Copenhagen area that relate to and offer opportunities for exciting visualization work.
 
-Make sure to also check out the virtual program at [IEEE VIS](http://ieeevis.org/). We will add details about room allocation for the virtual tracks at the conference over the next days.
-
-Please check back shortly for more information about the virtual program viewing options at our event.
+We provide a highlevel overview below. For details and room allocation for the virtual tracks, please refer to [our program](./program). Make sure to also check out the virtual program at [IEEE VIS](http://ieeevis.org/). 
 
 | Day       | M | Time slot   | Event                                                                          | Room                 |
 |:--------- |:- |:----------- |:------------------------------------------------------------------------------ |:-------------------- |
@@ -143,8 +140,8 @@ Please check back shortly for more information about the virtual program viewing
 *[V]: Virtual
 <!-- We highly welcome time-shifted presentations of VIS conference talks.
 
-Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us. -->
-
+Please check back later for more details about our local program. If you would like to organize an event at our satellite, please reach out to us.
+-->
 
 ## Local Organization Committee
 
@@ -157,8 +154,6 @@ Please check back later for more details about our local program. If you would l
 &emsp; Mace Ojala, IT University of Copenhagen
 
 &emsp; Jichen Zhu, IT University of Copenhagen
-
-If you want to help organize part of the satellite event, please contact us directly (see below).
 
 ---
 
