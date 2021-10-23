@@ -78,7 +78,7 @@ feature_row_program:
     btn_class: "btn--primary"
 
 feature_row_supporters:
-  - image_path: /assets/images/sponsors/supporters-hori.svg
+  - image_path: /assets/images/sponsors/supporters-hori.png
     alt: "Supporter logos: Inviso by Devoteam and EY Denmark"
     title: "Supporters"
     excerpt: 'vis21cph is made possible by our supporters. Our generous supporters help to fund our catered event and keynote presentation.'
