@@ -101,7 +101,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             |    | 3     | — *Not streaming*                                                              |                      |
 |           |   |             | F  | 4     | — Graphical Perception and Coloring                                            | 3A08                 |
 |           |   |             | S  | 5     | — Social Sciences, Software Tools, Journalism, and Storytelling                | 4A09                 |
-|           |   |             | P  | 6     | — Wait...when did we sign up to be economists?                                 | 2A05                 |
+|           |   |             | P  | 6     | — Visualization Literacy for General Audiences - Can We Make A Difference?     | 2A05                 |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |
 |           |   |             | F  | 1     | — Perspectives and Reflections                                                 | Aud 1                |
@@ -163,7 +163,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 3     | — Uncertainty                                                                  | 4A05                 |
 |           |   |             |    | 4     | — *Not streaming*                                                              |                      |
 |           |   |             | A  | 5     | — Uncertainty-aware visual analytics in applications - Towards a ...| 4A09     |
-|           |   |             | P  | 6     | — Visualization Literacy for General Audiences - Can We Make A Difference?     | 2A05                 |
+|           |   |             | P  | 6     | — Wait...when did we sign up to be economists?                                 | 2A05                 |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |
 |           |   |             | F  | 1     | — Model Evaluation                                                             | Aud 3                |
