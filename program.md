@@ -44,9 +44,9 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | Pa | 2     | — VAHC (continued)                                                             | 3A07                 | Royal        |
 |           |   |             | Pa | 3     | — VIS4DH (continued)                                                           | 4A05                 | Frenchmen    |
 |           |   |             | W  | 4     | — alt.VIS (continued)                                                          | 4A09                 | St. Charles  |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
-| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 |              |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
+| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 | Virtual room |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
 | Mon       | L | 16.30-20.30 |    |       | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | Atrium               |              |
 |           |   | 17.00-18.30 |    |       | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | Aud 1                |              |
 |           |   | 18.30-20.30 |    |       | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | ScrollBar            |              |
@@ -74,9 +74,9 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | Pa | 2     | — VisInPractice (continued)                                                    | Aud 1                | Royal        |
 |           |   |             | Pa | 3     | — VISxAI (continued)                                                           | 4A05                 | Frenchmen    |
 |           |   |             | W  | 4     | — Data Vis Activities ... (continued)                                          | 4A09                 | St. Charles  |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
-| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 |              |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
+| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 | Virtual room |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
 | Tue       | L | 10.00-12.00 |    |       | [Data Sketching Workshop](./data-sketching-workshop)                           | 3A20                 |              |
 |           |   | 12.00-13.00 |    |       | Lunch break (lunch served for workshop attendees)                              | *tbd*                |              |
 |           |   | 13.00-14.30 |    |       | [Data Sketching Workshop](./data-sketching-workshop)                           | 3A20                 |              |
@@ -87,9 +87,9 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   | 17.00-18.30 |    | 1     | VIS Best Papers                                                                | Aud 0                | Bourbon      |
 |           |   | 18.30-19.00 |    |       | *Dinner*                                                                       |                      |              |
 |           |   | 19.00-20.30 |    | 1     | VIS Keynote                                                                    | Aud 0                | Bourbon      |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
-| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 |              |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
+| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 | Virtual room |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
 | Wed       | L |  9.00-12.00 |    |       | [eXplainable AI Workshop](./explainable-ai-workshop)                           | ScrollBar            |              |
 |           |   | 12.00-13.00 |    |       | Lunch break (lunch served for workshop attendees)                              | *tbd*                |              |
 |           |   | 14.00-14.55 |    |       | [Keynote by Joost Grootens](./keynote)                                         | Aud 1                |              |
@@ -118,9 +118,9 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | C  | 4     | — Visualizing big issues: Culture, Climate Change, and Communities             | 3A08                 | St. Charles  |
 |           |   |             |    | 5     | — *Not streaming*                                                              |                      | Esplanade    |
 |           |   |             | Pa | 6     | — VISAP Session 1                                                              | 2A05                 | Magazine     |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
-| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 |              |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
+| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 | Virtual room |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
 | Thu       | L |  9.00-12.00 |    |       | [Network Visualization Tutorial](./network-visualization-tutorial)             | ScrollBar            |              |
 |           |   | 12.00-13.00 |    |       | Lunch break (lunch served for workshop attendees)                              | *tbd*                |              |
 |           |   | 13.00-14.30 |    |       | [Network Visualization Workshop](./network-visualization-workshop)             | ScrollBar            |              |
@@ -149,9 +149,9 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | S  | 4     | — Applications                                                                 | 4A09                 | St. Charles  |
 |           |   |             |    | 5     | — *Not streaming*                                                              |                      | Esplanade    |
 |           |   |             | Pa | 6     | — VISAP Session 2                                                              | 2A05                 | Magazine     |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
-| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 |              |
-|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |              |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
+| Day       | M | Time slot   | E  | Track | Event                                                                          | Room                 | Virtual room |
+|:--------- |:- |:----------- |:-- |:----- |:------------------------------------------------------------------------------ |:-------------------- |:------------ |
 | Fri       | L | 10.00-12.00 |    |       | [Healthcare Data Workshop](./healthcare-data-workshop)                         | 3A20                 |              |
 |           |   | 12.00-13.00 |    |       | Lunch break (lunch served for workshop attendees)                              | *tbd*                |              |
 |           |   | 13.00-14.30 |    |       | [Healthcare Data Workshop](./healthcare-data-workshop)                         | 3A20                 |              |
@@ -162,7 +162,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 2     | — Glyphs and Sets                                                              | 3A07                 | Royal        |
 |           |   |             | F  | 3     | — Uncertainty                                                                  | 4A05                 | Frenchmen    |
 |           |   |             |    | 4     | — *Not streaming*                                                              |                      | St. Charles  |
-|           |   |             | A  | 5     | — Uncertainty-aware visual analytics in applications - Towards a ...| 4A09     |                      | Esplanade   |  
+|           |   |             | A  | 5     | — Uncertainty-aware visual analytics in applications - Towards a ...           | 4A09                 | Esplanade    |  
 |           |   |             | P  | 6     | — Wait...when did we sign up to be economists?                                 | 2A05                 | Magazine     |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |              |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |              |
@@ -173,8 +173,8 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | A  | 5     | — Visualization Challenges in Deep Uncertainty                                 | 4A09                 | Esplanade    |
 |           |   |             | P  | 6     | — Navigating Interdisciplinary Careers in Visualization                        | 2A05                 | Magazine     |
 |           |   | 18.30-19.00 |    |       | Dinner                                                                         |                      |              |
-|           |   | 19.00-20.00 |    |       | VIS Capstone                                                                   | Aud 3                |              |
-|           |   | 20.00-20.30 |    |       | VIS Closing                                                                    | Aud 3                |              |
+|           |   | 19.00-20.00 |    |       | VIS Capstone                                                                   | Aud 3                | Bourbon      |
+|           |   | 20.00-20.30 |    |       | VIS Closing                                                                    | Aud 3                | Bourbon      |
 
 *[M]: Mode
 *[L]: Local
