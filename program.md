@@ -51,11 +51,11 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   | 17.00-18.30 |    |       | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | Aud 1                |              |
 |           |   | 18.30-20.30 |    |       | [Visualization in Practice community meetup](./visinpractice-with-dataviz-cph) | ScrollBar            |              |
 |           |   |             |    |       |                                                                                |                      |              |
-|           | V | 15.00-16.30 |    |       | VIS Parallel Sessions                                                          |                      | Bourbon      |
-|           |   |             | Pa | 1     | — LDAV 2021 - Big Data Analysis and Visualization                              | 3A01                 | Royal        |
-|           |   |             | Pa | 2     | — VisInPractice                                                                | Aud 1                | Frenchmen    |
-|           |   |             | Pa | 3     | — BioVis Challenge                                                             | 4A05                 | St. Charles  |
-|           |   |             | W  | 4     | — Data Vis Activities to Facilitate Learning, Reflecting, ...                  | 4A09                 |              |
+|           | V | 15.00-16.30 |    |       | VIS Parallel Sessions                                                          |                      |              |
+|           |   |             | Pa | 1     | — LDAV 2021 - Big Data Analysis and Visualization                              | 3A01                 | Bourbon      |
+|           |   |             | Pa | 2     | — VisInPractice                                                                | Aud 1                | Royal        |
+|           |   |             | Pa | 3     | — BioVis Challenge                                                             | 4A05                 | Frenchmen    |
+|           |   |             | W  | 4     | — Data Vis Activities to Facilitate Learning, Reflecting, ...                  | 4A09                 | St. Charles  |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |              |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |              |
 |           |   |             | Pa | 1     | — LDAV 2021 (continued)                                                        | 3A01                 | Bourbon      |
@@ -162,7 +162,7 @@ Sunday presents a mix of pre-approved events (Pa) and Workshops (W) that span ei
 |           |   |             | F  | 2     | — Glyphs and Sets                                                              | 3A07                 | Royal        |
 |           |   |             | F  | 3     | — Uncertainty                                                                  | 4A05                 | Frenchmen    |
 |           |   |             |    | 4     | — *Not streaming*                                                              |                      | St. Charles  |
-|           |   |             | A  | 5     | — Uncertainty-aware visual analytics in applications - Towards a ...| 4A09     |                      |  Esplanade   |  
+|           |   |             | A  | 5     | — Uncertainty-aware visual analytics in applications - Towards a ...| 4A09     |                      | Esplanade   |  
 |           |   |             | P  | 6     | — Wait...when did we sign up to be economists?                                 | 2A05                 | Magazine     |
 |           |   | 16.30-17.00 |    |       | Coffee Break                                                                   |                      |              |
 |           |   | 17.00-18.30 |    |       | VIS Parallel Sessions                                                          |                      |              |
