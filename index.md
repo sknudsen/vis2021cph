@@ -9,7 +9,7 @@ header:
   actions:
 #    - label: "Sign up to receive updates"
 #      url: "https://forms.office.com/r/vq2L0ax4YK"
-    - label: "Register for the event (free)"
+#    - label: "Register for the event (free)"
       url: "https://vis21cph.eventbrite.dk"
 # excerpt: "The IT University of Copenhagen organizes an [IEEE VIS](http://ieeevis.org/) 2021 [satellite event](http://ieeevis.org/year/2021/info/call-participation/satellite) in Copenhagen from Oct. 24-29"
 galleryfood:
