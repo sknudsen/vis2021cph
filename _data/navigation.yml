@@ -1,9 +1,9 @@
 main:
-  - title: "Register"
-    url: /register
   - title: "Program"
     url: /program
   - title: "Attend"
     url: /attend
+  - title: "Register"
+    url: /register
   - title: "Organization"
     url: /organization
