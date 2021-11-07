@@ -9,8 +9,8 @@ header:
   actions:
 #    - label: "Sign up to receive updates"
 #      url: "https://forms.office.com/r/vq2L0ax4YK"
-    - label: "Register for the event (free, closes on Oct 29)"
-      url: "https://vis21cph.eventbrite.dk"
+#    - label: "Register for the event (free, closes on Oct 29)"
+#      url: "https://vis21cph.eventbrite.dk"
 excerpt: "The IT University of Copenhagen organizes an IEEE VIS 2021 satellite event in Copenhagen from Oct. 24-29"
 galleryfood:
   - url: /assets/images/copenhagen/gallery-10.jpg
@@ -55,7 +55,7 @@ gallerybottom:
 ### Registration
 
 
-We provide a fully catered event with free registration (yes, really). Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk). Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
+We provide a fully catered event with free registration. ~~Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk)~~ Registration is closed. Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
 
 *Registrations are open until the last session of the event.*
 
