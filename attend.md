@@ -54,7 +54,7 @@ gallerybottom:
 
 ## Registration
 
-We provide a fully catered event with free registration. Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk). Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
+We provide a fully catered event with free registration. ~~Please register for the event at [https://vis21cph.eventbrite.dk](https://vis21cph.eventbrite.dk)~~ Registration is closed. Upon registration, we will add you to our mailing list where we communicate updates and information about the event.
 
 ## Attend
 
